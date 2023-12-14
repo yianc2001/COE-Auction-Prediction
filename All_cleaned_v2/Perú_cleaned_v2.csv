@@ -1,0 +1,192 @@
+,Rank,Country,Year,COE_score,Farm,High_bid,Total_value,Company,Farmer/Rep.,Altitude,City,Region,Process,Clean_and_clear,Balance_cup,Transparent_cup,Creamy_body,Big_body,Long_aftertaste,Roasted_flavor,Spices_flavor,NuttyCocoa_flavor,Sweet_flavor,Floral_flavor,Fruity_flavor,GreenVegetative_flavor,Winey_flavor,Malic_acidity,Citric_acidity,Tartaric_acidity,Lactic_acidity,Complex_acidity,geisha,pacamara,catuai,caturra,bourbon,typica,sl-28,sl-34,colombia,74112,74110,74158,mixed_variety
+0,1,Perú,2017,92.25,La Flor 2017 – {ORG},100.09,37512.73,"Maruyama Coffee, Campos Coffee, TOA Coffee, Sarutahiko Coffee",Juan Heredia Sanchez,1800.0,Jaén,Cajamarca,washed,0,1,0,1,0,1,0,0,0,2,1,9,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+1,1,Perú,2017,92.25,La Flor 2017 – {ORG},100.1,33102.07,"Time’s Club, Coffee Libre, Tashiro Coffee, Cafe Verde (Peru)",Juan Heredia Sanchez,1800.0,Jaén,Cajamarca,washed,0,1,0,1,0,1,0,0,0,2,1,9,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+2,2,Perú,2017,90.61,El Cerro 2017 – {ORG},51.4,19264.21,"MadCap, George Howell Coffee, Intelligentsia, Single O, Terarosa, Maruyama",Efrain Carhuallocllo Salvador,1900.0,San Ignacio,Cajamarca,washed,0,0,0,0,1,0,0,1,0,2,2,5,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3,2,Perú,2017,90.61,El Cerro 2017 – {ORG},50.3,16633.71,Kyokuto Fadie Corporation,Efrain Carhuallocllo Salvador,1900.0,San Ignacio,Cajamarca,washed,0,0,0,0,1,0,0,1,0,2,2,5,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4,3,Perú,2017,90.48,San Pedro – El Shimir 2017 -…,35.2,13968.42,MATSUMOTO COFFEE,Fredy Bermeo Guevara,1800.0,San Ignacio,Cajamarca,washed,0,0,1,1,0,1,0,0,2,1,0,13,0,2,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+5,3,Perú,2017,90.48,San Pedro – El Shimir 2017 -…,35.2,12416.45,Caffe’ Pascucci Torrefazione S.P.A.,Fredy Bermeo Guevara,1800.0,San Ignacio,Cajamarca,washed,0,0,1,1,0,1,0,0,2,1,0,13,0,2,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+6,4,Perú,2017,90.41,San Antonio 2017,18.7,7297.11,MOMOS COFFEE,Marco Antonio Montes Damiano,1500.0,Chanchamayo,Junin,washed,0,0,0,0,0,0,0,0,0,2,8,7,1,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+7,4,Perú,2017,90.41,San Antonio 2017,19.09,6312.87,"Orsir Coffee Co., Ltd.",Marco Antonio Montes Damiano,1500.0,Chanchamayo,Junin,washed,0,0,0,0,0,0,0,0,0,2,8,7,1,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+8,5,Perú,2017,90.11,Las Orquideas 2017 – {ORG},18.2,7342.79,"UCC Ueshima Coffee Co., Ltd.",Tito Huamán Salon,1950.0,Chachapoyas,Amazonas,washed,0,1,0,0,0,0,0,1,0,4,1,9,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,5,Perú,2017,90.11,Las Orquideas 2017 – {ORG},18.13,7194.53,Ascension Coffee Roasters,Tito Huamán Salon,1950.0,Chachapoyas,Amazonas,washed,0,1,0,0,0,0,0,1,0,4,1,9,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,6,Perú,2017,89.77,Finca Ecológica Agua Colorada…,49.6,37178.67,"Café Imports, Namusairo Coffee, Roast House Coffee, & Passenger Coffee.",Filadelpo Córdova Mejia,1850.0,Jaén,Cajamarca,washed,0,1,0,0,0,0,1,1,2,2,3,9,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,7,Perú,2017,89.27,Mandor 2017 – {ORG},17.3,9687.48,Campos Coffee,Gerardo Quispe Carrasco,2150.0,La Covencion,Cusco,washed,0,1,0,0,0,0,0,1,0,3,2,8,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1
+12,8,Perú,2017,88.7,Oropesa 2017,12.1,9683.39,Coffee Supreme,Cruz Rodriguez Ortiz,1665.0,Satipo,Junin,washed,0,1,0,1,0,0,0,0,2,2,0,12,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,9,Perú,2017,88.68,Kukipata 2017 – {ORG},10.89,7130.55,Terarosa (Haksan Co.Ltd),Cristobal Palomino Castro,2100.0,La Convencion,Cusco,washed,1,1,0,0,0,0,0,0,3,3,1,2,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+14,10,Perú,2017,88.52,Palmachayucc 2017 – {ORG},14.01,10038.31,Caravela Coffee,Américo Palomino Alanya,2100.0,La Convencion,Cusco,washed,0,0,0,0,0,0,0,0,0,2,1,8,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+15,11,Perú,2017,87.43,El Roble 2017,10.4,7566.31,"Tashiro Coffee Co., Ltd",Mario Jesús Rufasto Zulueta,2200.0,Chota,Cajamarca,washed,1,0,0,0,0,0,0,0,2,1,2,5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,12,Perú,2017,87.3,Vista Hermosa 2017 – {FTO/RAO},13.1,7220.2,Kyokuto Fadie Corporation,Alfonso Tejada Iberico,1820.0,Rodriguez De Mendoza,Amazonas,washed,0,0,1,0,0,1,0,0,1,0,1,5,0,0,0,0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+17,13,Perú,2017,87.27,Don Juan 2017,9.0,7539.84,"Wataru & Co., Ltd.",Juan Manuel Diaz Muñoz,1800.0,Jaén,Cajamarca,washed,0,0,0,1,0,0,0,2,5,2,1,3,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+18,14,Perú,2017,87.18,La Palma 2017 – {ORG},16.3,11499.32,Kyokuto Fadie Corporation,Charles Marlon Arbildo Parra,1900.0,San Ignacio,Cajamarca,washed,0,1,0,1,1,0,0,0,2,3,1,4,0,0,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,15,Perú,2017,87.09,Las Pircas 2017,9.3,6684.0,"Wataru & Co., Ltd.",Nerio Collantes Herrera,1673.0,Moyobamba,San Martin,washed,0,1,0,0,0,0,0,0,0,2,0,6,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20,16,Perú,2017,86.55,El Shimir 2017 – {RAO},10.1,7125.35,UCC Coffee UK,Marvin Charles Ramos Chinc,1550.0,San Ignacio,Cajamarca,washed,0,1,0,0,0,0,0,0,3,1,0,5,2,0,1,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+21,17,Perú,2017,86.34,Santa Sofia 2017,12.3,11009.48,"WATARU FOR St.berry Coffee, Marumi Coffee, COFFEE FACTORY, AMAMERIA ESPRESSO, Philocoffea",Eluterio Bolaños Torrecillas,1800.0,Satipo,Junin,washed,0,1,0,0,0,0,0,0,3,2,0,3,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,1,Perú,2018,91.08,Dwigth Aguilkar Masias,45.1,19388.49,"Maruyama Coffee, Sarutahiko Coffee, Thoth Coffee, GoodBoyBob Coffee (USA)",Dwigth Aguilar Masias,1820.0,Cusco,,washed,0,0,0,0,0,0,0,0,2,2,0,9,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+25,1,Perú,2018,91.08,Dwigth Aguilkar Masias,45.1,17897.03,Taf Coffee,Dwigth Aguilar Masias,1820.0,Cusco,,washed,0,0,0,0,0,0,0,0,2,2,0,9,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+26,2,Perú,2018,89.85,Damian Espinoza Garcia,20.3,17552.4,Kyokuto Fadie Corporation,Damian Espinoza Garcia,1900.0,,Cajamarca,washed,0,0,0,0,0,0,0,1,1,1,1,8,0,1,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,3,Perú,2018,89.58,Franklin Chinguel Morales,21.1,18420.93,Campos Coffee,Franklin Chinguel Morales,1850.0,,Cajamarca,washed,0,0,0,1,0,0,0,2,2,2,6,6,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+28,4,Perú,2018,89.43,Florencia Mamani Calcina,21.1,18374.51,"COFFEE COUNTY / NOZY COFFEE CO.,Ltd,  / Taniguchi Coffee, / NAGAHAMA COFFEE .Inc. / Huracan Coffee",Florencia Mamani Calcina,,,Cajamarca,washed,0,0,0,0,0,0,0,1,2,2,1,6,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+29,5,Perú,2018,89.28,Eleuterio Bolaños Torrecillas,9.5,7539.77,"Dutch Barista Coffee Company, Single O",Eleuterio Bolaños Torrecillas,,,Junín,washed,0,1,0,1,0,0,0,0,2,2,0,5,0,0,0,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+30,6,Perú,2018,89.2,Roxana Rangel Granda,9.3,7114.5,"MOMOS COFFEE, BLACKUP COFFEE, IN EARTH COFFEE, MAVIS COFFEE, VUENUS COFFEE",Roxana Rangel Granda,1850.0,,Cajamarca,washed,0,0,0,0,0,0,0,0,1,0,7,5,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,7,Perú,2018,88.65,Elvis Reinerio Tineo Rafael,9.6,7026.62,hirocoffee,ELVIS REINERIO TINEO RAFAEL,,,Cajamarca,washed,1,0,0,0,0,0,0,0,0,2,0,7,1,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+33,9,Perú,2018,88.23,Frank Gurvich Garcia Pariona,20.1,14725.26,ONE LOVE coffee,FRANK GURVICH GARCIA PARIONA,1500.0,,Junin,washed,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+34,10,Perú,2018,88.2,Fredy Bermeo Guevara,8.0,7467.52,Caravela Coffee,FREDY BERMEO GUEVARA,1850.0,,Cajamarca,washed,0,0,0,0,0,1,0,1,1,1,0,3,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+35,11,Perú,2018,87.62,Delia Capquique Quispe,8.7,6548.14,Kyokuto Fadie Corporation,DELIA CAPQUIQUE QUISPE,1500.0,,Puno,washed,0,0,0,0,0,0,0,0,1,3,3,2,2,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+36,12,Perú,2018,87.48,Alejandro Diaz Goicochea,7.1,7122.01,Honu Kato Coffee Inc.,Alejandro Diaz Goicochea,1850.0,,Junín,washed,0,0,0,0,0,0,0,0,1,1,0,5,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+37,13,Perú,2018,87.4,Jose Christian Lavan Guerrero,9.5,8084.41,Kyokuto Fadie Corporation,Jose Christian Lavan Guerrero,1600.0,,Cajamarca,washed,0,0,0,0,0,1,0,0,2,2,1,7,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+38,14,Perú,2018,87.38,Mel Francisco Cubos Espinoza,7.08,6846.01,"Dutch Barista Coffee Company, Single O",MEL FRANCISCO CUBOS ESPINOZA,,,Huánuco,washed,0,0,0,1,0,0,0,2,2,3,0,4,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+39,15,Perú,2018,87.36,Efrain Carhuallocllo Salvado,8.0,9294.72,"Wataru & Co., Ltd. – Osaka",EfrainCarhuallocllo Salvado,1950.0,,Cajamarca,washed,0,1,0,0,0,0,0,0,2,3,0,7,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+40,16,Perú,2018,87.24,Percy Pintado Huaman,6.9,13188.73,"Wataru & Co., Ltd.",Percy Pintado Huamán,1750.0,,Cajamarca,washed,0,1,0,0,0,0,1,0,2,4,0,4,1,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+41,17,Perú,2018,87.05,José Práxedes Alarcon Coronel,6.99,6749.75,Nippon Coffee Trading,José Praxedes Alarcón Coronel,,,Cajamarca,washed,0,1,0,0,0,0,0,0,1,0,0,3,0,0,0,4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+42,18,Perú,2018,86.88,Vincler  Velin Roman Huaman,7.08,5509.87,"Wataru & Co., Ltd. – Osaka",VINCLER VELIN ROMAN HUAMAN,1700.0,,Cajamarca,washed,0,1,0,0,0,0,0,1,3,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+43,19,Perú,2018,86.76,Vicentina Pocco Palero,7.1,6339.38,"Wataru & Co., Ltd. – Nagoya",VICENTINA PHOCCO PALERO,,,Puno,washed,0,1,0,0,1,0,0,0,2,3,2,5,0,1,0,2,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+44,20,Perú,2018,86.67,David Flores Chilcon,7.3,5858.1,Kaffebrenneriet As,DAVID FLORES CHILCON,1700.0,,Cajamarca,washed,1,0,0,0,0,0,0,1,2,5,1,2,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+45,21,Perú,2018,86.31,José Felipe Carhuachinchay Jimenez,7.18,6442.47,ONE LOVE coffee,JOSE FELIPE CARHUACHINCHAY JIMENEZ ,,,Cajamarca,washed,0,0,0,0,0,0,0,0,3,1,2,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+46,22,Perú,2018,86.14,Evelio Mego Diaz,6.95,6021.62,"TOA COFFEE Co., Ltd.",EVELIO MEGO DIAZ,,,Cajamarca,washed,0,0,0,0,0,1,0,1,2,1,1,3,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+47,23,Perú,2018,86.07,Luis Fernando Quispe Lopez,7.5,9490.88,"GSC International Co., Ltd.",LUIS FERNANDO QUISPE LOPEZ,,,Pasco,washed,0,0,0,1,0,0,0,0,3,2,1,5,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+48,1,Perú,2019,92.28,La Lucuma,20.0,7936.6,"Maruyama Coffee, Uchida Coffee, Harrods, Goodboybob Coffee",Grimanes Morales Lizana,,Rumepite Bojo,Cajamarca,washed,0,0,0,0,0,0,0,2,2,3,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,1,Perú,2019,92.28,La Lucuma,19.8,8381.14,"Dabov Specialty Coffee, Coffee Me Up (Korea), Cupper’s High Coffee Company, Cuppingpost",Grimanes Morales Lizana,,Rumepite Bojo,Cajamarca,washed,0,0,0,0,0,0,0,2,2,3,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,2,Perú,2019,91.44,Nuevo Progreso,30.0,11904.9,"Oas Roaster, Blossom Valley Intl, Vanilla Specialty Coffee",Lucio Luque Vasquez,,AMAYBAMBA,Cusco,washed,0,0,0,0,0,0,0,2,0,0,1,7,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1
+51,2,Perú,2019,91.44,Nuevo Progreso,30.0,11838.9,"1597 specialty, Coffee Montage, NAMUSAIRO COFFEE, Cuppingpost, Coffee Me Up, Cupper’s High Coffee Company",Lucio Luque Vasquez,,AMAYBAMBA,Cusco,washed,0,0,0,0,0,0,0,2,0,0,1,7,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1
+52,3,Perú,2019,91.4,Agua Dulce,12.6,5833.42,Ascension Coffee Roasters,Junior Guido Flores Elera,,C.P PACHAPIRIANA - Cas. LA PALMA,Cajamarca,washed,0,0,0,0,0,0,0,0,1,1,2,5,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+53,3,Perú,2019,91.4,Agua Dulce,12.5,5621.75,"RYANS COFFEE ROASTERS, ST.BERRY COFFEE, 27 COFFEE ROASTERS, Hisashi Yamamoto Coffee(Unir), MARUMI COFFEE",Junior Guido Flores Elera,,C.P PACHAPIRIANA - Cas. LA PALMA,Cajamarca,washed,0,0,0,0,0,0,0,0,1,1,2,5,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+54,4,Perú,2019,90.88,Romerillo,16.0,11573.44,Kyokuto Fadie Corporation,Franklin Chingel Morales,1700.0,RUMIPITO BOJO,Cajamarca,washed,0,0,0,1,0,0,0,2,2,0,0,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+55,5,Perú,2019,90.47,Perla Mayo,8.9,10399.21,"Wataru & Co., Ltd.",Luz Nelli Alarcon Estela,,FLOR DEL NORTE,Cajamarca,washed,0,0,0,0,0,0,0,1,1,1,2,3,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1
+56,6,Perú,2019,90.29,Santa Sofia,8.7,7691.24,Mare Terra Green Coffee,Eleuterio Bolaños Torresillas,1830.0,San Juan Pueblo Libre,Junin,washed,0,0,0,0,0,0,0,0,0,1,2,8,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+57,7,Perú,2019,89.69,Monte Rey,8.6,9546.26,"Wataru & Co., Ltd.",Felix Cachay Cueva,1750.0,JOSE GALVEZ,Junin,washed,0,0,0,0,0,0,0,0,4,2,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+58,8,Perú,2019,89.32,Morales,8.4,6842.72,"Wataru & Co., Ltd.",Roiber Elit Becerra Fernandez,1800.0,Lonya Grande,Amazonas,washed,0,0,0,1,0,0,0,1,0,1,0,7,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+59,9,Perú,2019,89.18,Nueva Alianza,16.88,14163.67,TAF Coffee,Dwight Aguilar Masias,1850.0,Andihuela,Cusco,washed,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+60,10,Perú,2019,88.96,Esmeralda,8.6,10465.77,"GSC International Co., Ltd.",Fabian Ortiz Coaquira,1600.0,UNION JUNIN,Junin,washed,0,0,0,0,0,0,0,1,3,3,0,3,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
+61,11,Perú,2019,88.75,La Palestina,8.21,9321.47,"DALIAN INSIDE OUT TRADING CO.,LTD",Zobeida Alarcon Coronel,1750.0,ANCASH,Cajamarca,washed,0,0,0,0,0,0,0,0,1,3,2,6,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+62,12,Perú,2019,88.75,El Lechero,8.4,8629.74,Kyokuto Fadie Corporation,Idelio Ulises Nayra Armijor,1870.0,EL HUABO,Cajamarca,washed,0,0,0,0,0,0,0,1,1,1,1,5,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+63,13,Perú,2019,88.64,El Cedro,11.4,7389.02,Camel Step Roasters,Nilson Silva Diaz,1650.0,JUSIVA,Amazonas,washed,0,0,0,0,0,0,0,0,2,1,1,7,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+64,14,Perú,2019,88.64,Las Orquideas,11.8,8584.74,SUPREMO COFFEE,Amancio Zuñiga Aquino,1700.0,Flor de Café - Santa Rosa T.,Huanuco,washed,0,0,0,0,0,0,0,0,1,2,2,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+65,15,Perú,2019,88.63,La Perla,11.0,12940.29,"Kyokuto Fadie Corporation &
+
+
+
+Intelligentsia",Rafael Arevalo Apolinar,1950.0,EL DIAMANTE,Cajamarca,washed,0,0,0,0,0,0,0,0,1,1,0,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+66,16,Perú,2019,88.18,Oropeza,8.7,7911.87,Brew92 Cafe & Roastery,Cruz Rodriguez Ortiz,1680.0,Independencia,Junin,washed,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+67,17,Perú,2019,88.14,Picorana,8.3,8285.48,"Groundwork Coffee, The Moustache Coffee Club, Noble Coffee, Intelligentsia Coffee, Amrita Certified Pure",Jose Cristian Lavan Guerreo,1650.0,Ricardo Palama,Cajamarca,washed,0,0,0,0,0,0,0,2,0,1,0,7,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+68,18,Perú,2019,87.72,El Progreso,8.2,6283.91,ROAST Coffee,Agustin Cassa Ccoyo,2000.0,HUAYNAPATA,Cusco,washed,0,0,0,0,0,0,0,0,3,1,1,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+69,19,Perú,2019,87.58,La Fila,8.0,11232.96,Nagahama Coffee Inc.,Evaristo Castro Tantalean,1700.0,CAS. SANTO TOMAS,Cajamarca,washed,0,0,0,0,0,0,0,0,2,3,1,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+70,20,Perú,2019,87.36,Altos Cedruyoc,7.81,5857.58,"Wataru & Co., Ltd.",Juan Jose Huillca Singuña,1800.0,CP QUEBRADA,Cusco,washed,0,0,0,0,0,0,0,2,3,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+71,21,Perú,2019,87.33,Parcela Cenfrocafe- Huabal,7.85,7760.12,"Wataru & Co., Ltd.",Jose Martin Vega Segovia,1750.0,BERLIN,Cajamarca,honey,0,0,0,0,0,0,0,0,3,2,0,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,1,Perú,2020,90.0,Esperanza,51.1,22629.64,Latorre & Dutch Coffee (China) for June’s Garden Coffee / Cut Hand Group / OAS Roaster / MANNER COFFEE (China) / Fisher Coffee / KOLAKOLA COFFEE,Hilda Leguia Gonzales,1848.0,La Convencion,Cusco,washed,0,0,0,1,1,1,1,0,4,4,5,22,2,0,1,1,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+73,1,Perú,2020,90.0,Esperanza,50.7,20122.83,"Time’s Club.INC, Coffee Libre, EL CAFE coffee roasters, Coffee Montage",Hilda Leguia Gonzales,1848.0,La Convencion,Cusco,washed,0,0,0,1,1,1,1,0,4,4,5,22,2,0,1,1,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+74,2,Perú,2020,89.58,Caminos El Inca,28.7,13843.16,"Vela Ethan International Co.,Ltd",Edwar Toro Goicochea,1750.0,Jaen,Cajamarca,washed,0,0,0,0,0,0,0,1,3,4,1,28,1,5,2,3,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0
+75,3,Perú,2020,88.96,El Laurel,17.1,11686.82,CAFFE PASCUCCI,Jhonner Jhasson Chinguel Morales,1800.0,San Ignacio,Cajamarca,washed,0,0,0,0,0,1,0,0,5,5,4,25,2,0,1,3,2,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+76,4,Perú,2020,88.92,La Esperanza,17.5,10211.43,Falcon Coffees,Fidel Huancas Huancas,1840.0,San Ignacio,Cajamarca,washed,0,0,0,0,0,0,0,0,6,8,2,24,3,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+77,5,Perú,2020,88.88,Bella Siempre Viva,23.1,14573.1,Campos Coffee,Norman Choque Ccuno,1640.0,Sandia,Puno,washed,0,0,0,0,0,1,0,2,5,4,2,17,4,0,1,3,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+78,6,Perú,2020,88.77,Agua Dulce,16.1,13585.99,Kyokuto Fadie Corporation,Hernan Rodas Guerrero,2080.0,Jaen,Cajamarca,washed,0,0,0,1,0,0,0,0,7,7,3,28,2,0,1,2,3,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+79,7,Perú,2020,88.77,O´Sopen,16.0,8791.36,"Japan Roasters’ Network, Harrods",Gino Sadler Marin Ciriaco,1750.0,Oxapampa,Pasco,washed,1,0,0,1,0,0,0,2,5,6,2,24,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+80,8,Perú,2020,88.73,La Palma,26.0,21734.96,Falcon Coffees,Eli Espinoza Soberon,1845.0,Jaen,Cajamarca,natural,0,0,0,0,0,1,0,2,4,8,4,26,1,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+81,9,Perú,2020,88.58,Buena Vista,16.3,10212.11,SkyTop Coffee & Noble Coffee,Valerio Almanza Ccahua,1970.0,La Convencion,Cusco,washed,0,0,0,0,0,0,0,3,5,6,2,15,4,0,1,4,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,10,Perú,2020,88.58,Nueva Alianza,29.4,20598.23,"Vela Ethan International Co.,Ltd",Dwight Aguilar Masias,1880.0,Santa Teresa,Cusco,washed,0,0,0,1,0,1,1,1,5,7,8,23,3,2,1,4,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+83,11,Perú,2020,88.54,El Rejo,12.7,10921.37,"Wataru & Co., Ltd.",Jose Enrique Rivera Vega,1750.0,,Cajamarca,washed,1,0,0,0,0,0,0,2,5,7,5,18,3,0,2,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+84,12,Perú,2020,88.38,Esmeralda,10.6,12856.74,"YING FUNG, SWEET HOME COFFEE , Orca Spin Cafe, LAVA COFFEE ROASTERS (TAIWAN)",Fabian Ortiz Coaquira,1600.0,Satipo,Junin,washed,1,0,0,0,0,0,2,2,6,10,5,16,3,0,2,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1
+85,13,Perú,2020,88.19,Nuevo Progreso,17.0,11245.5,Single O & Intelligentsia,Lucio Luque Vasquez,2122.0,La Convencion,Cusco,washed,0,0,0,0,0,1,0,0,5,10,2,19,5,0,1,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,14,Perú,2020,87.81,Progreso,11.1,7199.02,COFFEE COUNTY,Agustin Ccasa Ccoyo,2050.0,Calca,Cusco,washed,0,0,0,1,0,0,0,0,6,10,3,18,4,1,1,3,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+87,15,Perú,2020,87.81,Belen,11.1,6590.51,"Wataru & Co., Ltd.",Florencio Navarro Huailla,2280.0,La Convencion,Cusco,washed,1,0,0,1,0,0,2,1,10,10,1,18,1,1,1,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+88,16,Perú,2020,87.65,Eucalipto-Pata,11.2,6402.48,Nagahama Coffee Inc.,Edwin Tello Huachohuillca,2132.0,La Convención,Cusco,washed,0,0,0,0,0,0,1,0,7,7,2,18,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+89,17,Perú,2020,87.54,Santa Maria,11.0,8283.33,Corvus Coffee,Cesar Sampertegui Hurtado,2000.0,Jaen,Cajamarca,washed,0,0,0,0,0,0,1,3,4,8,1,21,2,0,1,2,2,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+90,18,Perú,2020,87.54,Lucmayoc,10.0,6329.2,"Wataru & Co., Ltd.",Raul Portilla Quispe,2020.0,La Convencion,Cusco,washed,0,0,0,0,0,0,1,1,8,6,1,20,5,0,1,3,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+91,19,Perú,2020,87.35,El Encanto,9.3,11040.68,"Wataru & Co., Ltd.",Virgilio Digno Janampa Espejo,1630.0,Satipo,Junin,washed,0,0,0,0,0,0,0,1,6,8,2,19,1,0,1,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+92,20,Perú,2020,87.27,Macora,14.1,9647.36,Latorre & Dutch Coffee (China) for Fisheye Café / Fisher Coffee / Small Arms Big Heart / KOLAKOLA COFFEE,Clomalda Salvador Valverde,1459.0,Dos De Mayo,Huanuco,washed,0,0,0,0,0,1,0,2,5,4,3,17,3,2,1,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+93,21,Perú,2020,87.23,Cedruyoc,8.9,5618.48,List + Beisler GmbH,Emilio Gutierrez Nieble,1880.0,Calca,Cusco,washed,1,0,0,0,0,0,2,2,8,5,1,13,1,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+94,22,Perú,2020,87.19,Tres Cumbres,10.0,8689.9,"Wataru & Co., Ltd.",Alejandro Diaz Goicochea,1750.0,Chanchamayo,Junin,washed,0,0,0,0,0,1,0,0,6,3,2,26,2,1,2,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+95,23,Perú,2020,87.15,El Cafetal,9.5,11785.04,"Wataru & Co., Ltd.",Eudes Fernandez Vasquez,1700.0,San Ignacio,Cajamarca,washed,1,0,0,0,0,0,3,2,7,10,2,17,4,0,1,5,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+96,24,Perú,2020,87.0,Origen Marin,12.0,9128.76,Thood Qahwa LTD Co,Jimmy Anthony Marin Ciriaco,1530.0,Chanchamayo,Junin,natural,0,0,0,1,0,0,0,3,6,6,1,16,2,1,0,3,2,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1
+97,1,Perú,2021,90.2,Nueva Alianza,54.6,18055.67,Orsir Coffee(Taiwan),Dwight Aguilar Masías,1820.0,,,washed,0,0,0,0,0,1,0,1,3,8,1,19,3,0,2,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+98,1,Perú,2021,90.2,Nueva Alianza,50.4,17744.83,KALDI COFFEE FARM,Dwight Aguilar Masías,1820.0,,,washed,0,0,0,0,0,1,0,1,3,8,1,19,3,0,2,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+99,2,Perú,2021,90.08,Santa Mónica,34.3,11342.67,SUPREMO COFFEE,Hugo Mariño Laura,1950.0,,,washed,0,0,0,0,0,1,1,0,3,10,2,19,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+100,2,Perú,2021,90.08,Santa Mónica,33.5,11410.44,KAKALOVE CAFE,Hugo Mariño Laura,1950.0,,,washed,0,0,0,0,0,1,1,0,3,10,2,19,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+101,3,Perú,2021,90.0,La Palta,27.6,7301.58,Falcon Coffees,José Elmer Tineo Mendoza,1650.0,,,natural,0,0,0,0,0,0,0,3,2,4,3,28,0,2,2,3,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1
+102,3,Perú,2021,90.0,La Palta,27.7,8244.07,Cometeer & Onyx Coffee Lab,José Elmer Tineo Mendoza,1650.0,,,natural,0,0,0,0,0,0,0,3,2,4,3,28,0,2,2,3,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1
+103,4,Perú,2021,89.38,Chiriloma,25.7,15694.48,MOMOS COFFEE,Nory Quispe Santos,1950.0,,,washed,0,0,0,0,0,0,0,2,2,8,4,25,2,0,1,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+104,5,Perú,2021,89.09,Santa Teresa,14.0,22973.44,DABOV Specialty Coffee,Andrés Torres Goicochea,1688.0,,,natural,0,0,0,0,0,0,3,3,9,5,1,15,0,1,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+105,6,Perú,2021,89.06,Carmen Alto,23.2,13778.94,Solberg & Hansen As,Marco Solórzano Vizarreta,1940.0,,,washed,0,0,0,0,0,0,1,0,5,6,5,18,3,1,2,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+106,7,Perú,2021,88.97,Nuevo Progreso,20.0,11905.0,Kaffebrenneriet As,Lucio Luque Vásquez,2100.0,,,washed,0,0,0,0,0,0,1,0,7,8,1,19,3,0,1,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+107,8,Perú,2021,88.38,La Candelaria,26.0,16290.3,NOZY COFFEE,Roberto Vilca Palli,1700.0,,,washed,0,0,0,0,0,0,1,2,5,10,3,15,1,1,2,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+108,9,Perú,2021,88.27,La Lucuma,32.1,22030.87,Terarosa (Haksan Co. Ltd),Grimanes Morales Lizana,1800.0,,,washed,0,0,0,0,0,0,1,1,4,8,2,17,3,0,2,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+109,10,Perú,2021,87.75,El Cedro,20.2,16343.21,KALDI COFFEE FARM,Nilson Silva Díaz,1800.0,,,natural,0,0,0,0,0,0,0,2,3,3,1,20,1,0,1,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+110,11,Perú,2021,87.72,Kukipata Belen,15.3,8557.44,SkyTop Coffee,Feliciano Huayllas Candia,1970.0,,,washed,0,0,0,0,0,0,1,1,6,12,2,16,3,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+111,12,Perú,2021,87.69,El Bosque,11.3,6956.73,"Wataru & Co., Ltd.",Elmer Cruz Guerrero,1850.0,,,washed,0,0,0,0,0,0,0,1,4,7,0,17,1,0,2,3,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+112,13,Perú,2021,87.64,Las Naranjas,12.0,7653.6,"UCC Ueshima Coffee Co., Ltd.",Mercedes Pérez Coronel,1765.0,,,washed,0,0,0,0,0,0,1,2,6,9,3,15,3,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,14,Perú,2021,87.63,El Aliso Chorro Blanco,10.9,8490.88,Kyokuto Fadie Corporation,Benedicto Wilcamango Romero,1900.0,,,washed,0,1,0,0,0,0,2,1,6,8,0,15,2,0,1,3,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+114,15,Perú,2021,87.63,Alto Cedruyoc,25.2,15677.93,Wataru for Voila Coffee,Ubaldina Jincho Aguirre,1800.0,,,washed,0,0,0,0,0,0,2,0,7,9,5,15,1,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+115,16,Perú,2021,87.56,Eco Mario,10.1,6515.21,"Wataru & Co., Ltd.",Juan Carlos Mejía Condory,1790.0,,,washed,0,0,0,0,0,0,1,1,9,4,1,18,1,0,2,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+116,17,Perú,2021,87.56,Los Pinos,19.3,13349.04,Luigi Lavazza S.p.A.,Irma Espinoza García,1800.0,,,natural,0,0,0,0,0,0,1,0,5,7,3,14,1,0,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+117,18,Perú,2021,87.56,Sangre de Grado,12.7,11717.4,Kyokuto Fadie Corporation,Reguberto García Ordoñez,1580.0,,,washed,0,0,0,0,0,0,1,0,4,6,0,13,2,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+118,19,Perú,2021,87.53,La Chirimolla,8.5,7789.91,"Wataru & Co., Ltd.",Henry Arica Guerrero,1800.0,,,washed,0,0,0,0,0,0,0,0,4,6,2,14,2,0,0,4,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+119,20,Perú,2021,87.33,Basulpata,14.1,8346.35,Blossom Valley Intl & The Few Coffee & Goods,Alejandro Quispe Ortiz,2177.0,,,washed,0,0,0,0,0,0,1,0,6,8,3,15,5,0,0,4,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+120,21,Perú,2021,87.22,El Gringo,10.3,16715.97,"Wataru & Co., Ltd.",Lenin Torres Ticlia,1855.0,,,natural,0,0,0,0,0,0,1,1,8,7,1,19,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+121,22,Perú,2021,87.19,Osopen,12.1,7402.54,"Wataru & Co., Ltd.",Gino Sadler Marín Ciriaco,1750.0,,,washed,0,0,0,0,0,0,1,0,6,5,2,15,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+122,23,Perú,2021,87.19,La Chirimoya,15.3,8350.74,Falcon Coffees,Orlando Pedraza Ramírez,1700.0,,,natural,0,0,0,0,0,0,0,1,4,8,1,15,0,2,2,3,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+123,24,Perú,2021,87.09,La Naranja,15.4,10045.11,Falcon Coffees,Saúl Menor Taica,1900.0,,,natural,0,0,0,0,0,0,0,1,4,5,2,16,2,1,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+124,1,Perú,2022,90.39,LA BOLA,75.0,27282.0,"AROMA GROUP, 1:2 Coffee Company,
+Drippin Coffee Roasters,Drippin Coffee Roasters, Vela Ethan International Co., Ltd.",BLANCA FLOR CORDOVA JIMENEZ,,,,washed,0,1,0,0,0,1,0,0,1,0,2,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+125,1,Perú,2022,90.39,LA BOLA,78.5,20767.18,Snow Beans Coffee,BLANCA FLOR CORDOVA JIMENEZ,,,,washed,0,1,0,0,0,0,0,0,0,1,0,5,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+126,2,Perú,2022,90.25,SAN SEBASTIAN,30.4,11602.46,Orsir Coffee and TRN( Taiwan Roasters Network),JULIO CESAR CHAVEZ NIEVE,,,,washed,0,1,0,0,0,0,0,0,0,1,0,5,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+127,2,Perú,2022,90.25,SAN SEBASTIAN,30.3,8015.56,Coffee Libre,JULIO CESAR CHAVEZ NIEVE,,,,washed,0,1,0,0,0,0,0,0,0,1,0,5,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+128,3,Perú,2022,90.0,EL CERRO,30.1,9214.51,YN coffee,EFRAIN CARHUALLOCLLO SALVADOR,,,,natural,0,1,0,1,0,0,0,0,1,1,0,4,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+129,3,Perú,2022,90.0,EL CERRO,31.5,8333.33,"AROMA GROUP,1:2 Coffee Company, Drippin Coffee Roasters, Vela Ethan International Co., Ltd.",EL CERRO,,,,natural,0,1,0,1,0,0,0,0,1,1,0,4,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+130,4,Perú,2022,89.8,CHIRILOMA,15.9,9464.48,"NANJING ECO FARM TRADING CO., LTD. / Cut Hand Group (剁手咖啡群) / Kinglo Coffee（轻乐咖）/ 有容乃大Small Arms Big Heart / Title coffee / 啟程拓殖 TerraformCoffee / KOMENCU Coffee(广州启程)",NORY QUISPE SANTOS,,,,washed,0,0,0,0,0,0,0,0,0,3,0,8,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+131,5,Perú,2022,89.66,FUNDO PUQUIOPATA,13.7,8012.03,terarosa,HORTENCIA VICTORIA BERROCAL MENDOZA,,,,washed,0,0,0,0,0,0,0,0,1,3,3,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+132,6,Perú,2022,89.46,BELLO HORIZONTE,20.2,12872.45,"Songdo Coffee(South Korea), Studio Caffeine(Hong Kong), WAVY COFFEE ROASTERS(Japan), Big Black Box(Thailand), Bean & Bean(USA)",MAXIMO MUÑOZ MEZA,,,,washed,0,0,0,1,0,0,0,1,1,2,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+133,7,Perú,2022,89.3,ALTO MORERILLO,12.0,7101.48,"Wataru & Co., Ltd.",ELVIS EDWIN DAVILA HORNA,,,,washed,0,0,0,1,0,0,0,0,0,1,2,5,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+134,8,Perú,2022,89.02,NUEVO PROGRESO,20.2,12761.96,"Coffee Montage, coffeeTemple, rbhcoffee, FEBRUARY ROASTERS, 502 Coffee Roasters, DeepBlueLake
+, COFFEE PLACE, HYANGMISA, No Doubt",LUCIO LUQUE VASQUEZ,,,,washed,0,1,0,0,0,0,0,0,2,5,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+135,9,Perú,2022,88.89,SILLAPATA,15.6,9285.9,Linking Coffee,CLEOFE ESPINOZA PALOMINO,,,,washed,1,0,0,0,0,0,0,0,0,2,0,3,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+136,10,Perú,2022,88.48,PALTOS A,15.1,8400.73,Orsir Coffee and TRN( Taiwan Roasters Network),NAYDA FLORES RIOS,,,,washed,0,1,0,0,0,0,0,1,0,0,1,5,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+137,11,Perú,2022,88.13,CEDRUYOC,15.1,8988.28,M.I.Coffee Corporation,UBALDINA JINCHU AGUIRRE,,,,washed,1,0,0,0,0,0,0,0,0,1,2,6,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+138,12,Perú,2022,88.08,LA MARAGARITA COFFEE RESERVE,15.0,9328.8,"AROMA GROUP, 1:2 Coffee Company, Drippin Coffee Roasters",MARCO SOLORZANO VIZARRETA,,,,washed,0,0,0,1,0,0,0,0,2,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+139,13,Perú,2022,88.08,SANTA MONICA,15.0,9551.7,Urth Caffe,HUGO MARIÑO LAURA,,,,washed,1,0,0,0,0,0,0,0,0,3,1,7,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+140,14,Perú,2022,88.0,LA PALMA,11.9,8408.54,Caffeinelab Coffee Roasters,ELI ESPINOZA SOBERON,,,,natural,0,0,1,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+141,15,Perú,2022,88.0,LA PALMA,10.8,7295.83,"Wataru & Co., Ltd.",PABLO NEIRA MELEDREZ,,,,washed,1,0,0,0,0,0,0,0,1,1,1,6,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+142,16,Perú,2022,87.77,LA BERENJENA,11.1,6862.13,"Wataru & Co., Ltd.",NICANOR ZURITA MORETO,,,,natural,0,1,0,0,0,0,0,1,1,1,1,5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+143,17,Perú,2022,87.6,EXPERIMENTAL CANDELARIA,11.9,7083.48,NOZY COFFEE,JHONATAN SAMIR BETANCUR COAQUIRA,,,,washed,0,1,0,0,0,1,0,0,1,3,1,4,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1
+144,18,Perú,2022,87.5,SANTA MONICA,13.7,8500.99,NOZY COFFEE,RAUL MAMANI MAMANI,,,,washed,0,0,0,0,0,0,0,0,0,1,1,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+145,19,Perú,2022,87.5,LAS ETIOPES,12.1,7979.83,KAFFEBRENNERIET AS,SIMON CHARLES BROWN,,,,washed,0,0,0,0,0,0,0,0,0,1,1,4,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+146,20,Perú,2022,87.5,EL JAZMIN,12.0,9405.96,Urth Caffe,ANDRES ABARCA GOMEZ,,,,washed,0,0,0,0,0,0,0,0,2,2,0,3,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+147,21,Perú,2022,87.42,EL CEDRO,15.1,8694.88,"Saerin co.,Ltd(MGPG)",NILSON SILVA DIAZ,,,,natural,0,1,0,0,0,0,0,0,0,1,0,6,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+148,22,Perú,2022,87.42,CAMINOS DEL INCA,12.1,8545.38,honu加藤珈琲店株式会社,EDWAR TORO GOICOCHEA,,,,washed,1,0,0,0,0,0,0,0,1,3,1,4,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1
+150,24,Perú,2022,87.42,LA NARANJA,15.1,6213.5,Wataru for Voila Coffee,AMARO TOMAS CRUZ MEZA,,,,natural,0,0,0,0,0,0,0,0,1,2,1,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+151,25,Perú,2022,87.38,SAN CARLOS,12.1,7202.53,NOZY COFFEE,RUBEN ANTONIO SALAZAR ZAPANA,,,,washed,0,0,0,0,0,0,0,0,0,1,3,6,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+152,26,Perú,2022,87.31,NUEVA ZELANDIA,12.4,7681.68,Linking Coffee,HERLIN EMER FLORIDO ENCARNACIÓN,,,,washed,0,0,0,1,0,0,0,0,1,1,0,5,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+153,27,Perú,2022,87.17,EL ZAPOTE,12.1,6402.11,Campos Coffee,FREDESVINDA VASQUEZ ROMERO,,,,washed,0,0,0,0,0,0,0,0,3,1,1,3,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
+154,28,Perú,2022,87.12,FINCA EL MORITO S.R.L,9.0,5595.21,"Wataru & Co., Ltd.",FAUSTINO FLORES BENEGAS,,,,washed,0,0,0,1,0,1,0,0,2,1,1,6,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+155,29,Perú,2022,87.04,PROGRESO,12.1,7464.97,Kyokuto Fadie Corporation,AGUSTIN CCASA CCOYO,,,,washed,0,0,0,0,0,1,0,0,3,3,0,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+156,1,Perú,2023,90.74,Alto Mirador,80.2,26521.34,"KALDI COFFEE FARM (CAMEL COFFEE CO.,LTD.)",Alto Mirador,1990.0,,,washed,0,1,0,0,0,1,0,0,6,14,11,30,3,0,1,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+157,1,Perú,2023,90.74,Alto Mirador,80.3,26301.46,"KALDI COFFEE FARM (CAMEL COFFEE CO.,LTD.)",Alto Mirador,1990.0,,,washed,0,1,0,0,0,1,0,0,6,14,11,30,3,0,1,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+158,2,Perú,2023,90.68,La Lucuma,44.8,17777.98,"Cultivar Coffees, Kawa Coffee",Franco Huaches Montalvan,1850.0,,,washed,0,0,0,0,0,0,0,0,5,12,13,25,3,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+159,2,Perú,2023,90.68,La Lucuma,44.1,17144.32,DECAMERON COFFEE,Franco Huaches Montalvan,1850.0,,,washed,0,0,0,0,0,0,0,0,5,12,13,25,3,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+160,3,Perú,2023,90.32,Chiriloma,60.1,19874.47,Kyokuto Fadie Corporation,Edwin Quea Pacco,1950.0,,,washed,0,0,0,1,1,0,0,2,6,7,2,30,1,0,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+161,3,Perú,2023,90.32,Chiriloma,62.55,17926.83,Snow Beans Coffee,Edwin Quea Pacco,1950.0,,,washed,0,0,0,1,1,0,0,2,6,7,2,30,1,0,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+162,4,Perú,2023,90.15,Pedregal,25.4,15119.35,COFFEE COUNTY,Abel Raymundo Arotaype Huayllas,2240.0,,,washed,0,0,0,1,0,0,0,1,4,7,7,37,5,0,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+163,5,Perú,2023,89.62,Randu,19.0,11145.02,SARUTAHIKO COFFEE,Royer Romaldo Curo Rojas,1700.0,,,natural,0,0,0,1,0,0,0,4,2,8,0,17,2,2,3,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+164,6,Perú,2023,89.47,Llactapata,23.0,14613.51,SARUTAHIKO COFFEE,Gilber Huayllas Huaman,2400.0,,,washed,0,0,0,0,0,0,0,2,8,8,3,27,4,0,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+165,7,Perú,2023,89.41,El Pino,18.0,20238.48,"Dabov Specialty Coffee, Coffee Me Up (Korea), Coffee Therapy (Thailand)",Edilberto Bermeo Guevara,1850.0,,,washed,0,0,0,1,0,0,0,1,9,13,4,24,1,0,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+166,8,Perú,2023,89.29,Bello Horizonte,24.0,18421.2,"MUSEO Co., Ltd. / 언더프레셔(핸디엄) / COFFEE HWA ROASTERS / Micro Roaster Union / 월드베스트커피협회(WBCA)",Brian Smith Muñoz Mayta,1569.0,,,washed,0,0,0,0,1,0,0,0,4,13,5,30,2,0,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+167,9,Perú,2023,89.24,Nueva Alianza,21.95,14275.4,Onyx Coffee Lab,Dwight Aguilar Masias,1820.0,,,washed,0,0,0,0,0,0,0,1,7,13,4,26,0,0,2,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+168,10,Perú,2023,88.94,Finca Los Santos,15.1,9933.84,治光师 Beam Timer,Jose Santos Requejo Villanueva,1700.0,,,honey,0,0,0,0,0,0,0,0,4,6,3,27,8,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+169,11,Perú,2023,88.59,Sol Naciente,19.1,10106.0,Pebble Coffee,Julio Cesar Arotaype Huayllas,2438.0,,,washed,0,0,0,0,0,0,0,2,4,10,7,26,5,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+170,12,Perú,2023,88.56,El Colibri,14.0,9259.46,Brew92,Jose Percy Alfaro Chetilan,1800.0,,,natural,0,0,0,1,0,0,0,2,9,9,2,28,3,2,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+171,13,Perú,2023,88.53,Alto San Jose,14.6,9285.6,NOZY COFFEE,Anastacio Mamani Chambi,1800.0,,,washed,0,0,0,0,0,1,0,0,3,7,4,27,5,0,2,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+172,14,Perú,2023,88.53,Miscabamba,16.7,9641.24,SARUTAHIKO COFFEE,Armando Ramirez Sanchez,2350.0,,,washed,1,0,0,0,0,1,0,0,8,5,2,31,2,2,1,1,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+173,15,Perú,2023,88.47,Mate,15.3,9023.63,REHM SPECIALTY COFFEE IMPORTERS,Edward Robert Vigo Arcos,1560.0,,,natural,0,0,0,0,0,0,0,2,7,4,0,33,2,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,16,Perú,2023,88.29,Finca Montalvan,13.5,8928.77,"Wataru & Co., Ltd.",Edson Daledy Montalvan Elera,1700.0,,,natural,0,0,0,0,0,0,0,2,5,14,4,31,3,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+175,17,Perú,2023,88.18,La Curva,15.6,9637.99,"Wataru & Co., Ltd.",Ivan Salas Solorzano,1910.0,,,natural,0,0,0,0,0,0,0,2,8,7,2,26,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+176,18,Perú,2023,88.15,Artemira,16.2,15981.62,"KALDI COFFEE FARM (CAMEL COFFEE CO.,LTD.)",Ebert Alexander Huaman Villegas,1900.0,,,washed,0,0,0,0,0,0,0,0,3,6,4,24,5,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+177,19,Perú,2023,88.15,Puquiopampa,15.1,8988.28,Kyokuto Fadie Corporation,Hortencia Victoria Berrocal Mendoza,2200.0,,,washed,1,0,0,0,0,0,0,1,7,8,2,23,0,0,1,2,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1
+178,20,Perú,2023,88.12,Tranca Amarilluyuq,17.5,10223.85,KAFFEBRENNERIET AS,Marina Azorsa Quispe,2100.0,,,washed,0,0,0,1,0,0,0,1,9,8,0,21,1,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+179,21,Perú,2023,87.88,El Cedro,22.7,17779.55,Sulalat Coffee Trading,Nilson Silva Diaz,1600.0,,,natural,0,0,0,1,0,0,2,1,9,4,4,22,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+180,22,Perú,2023,87.79,Rosas Pata,16.8,10370.47,NOZY COFFEE,Flavio Ccori Soncco,1800.0,,,washed,0,0,0,1,0,0,0,3,8,6,0,23,0,6,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+181,23,Perú,2023,87.79,El Rejo,13.35,8298.49,Campos Coffee,Jose Enrique Rivera Vega,1710.0,,,washed,0,0,0,0,0,0,1,3,5,14,5,13,3,1,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+182,24,Perú,2023,87.76,La Pomarrosa,11.4,7172.88,honu加藤珈琲店株式会社,Merci Judit Fernandez Silva,1850.0,,,washed,0,0,0,0,0,0,0,0,5,7,3,23,1,0,2,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+183,25,Perú,2023,87.76,La Palta,13.3,9461.22,Kyokuto Fadie Corporation,Jose Elmer Tineo Mendoza,1850.0,,,natural,0,0,0,0,0,0,0,0,10,12,0,18,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+184,26,Perú,2023,87.71,Alto Mirador,16.4,10138.15,Wataru for Voila Coffee,Adan Rodrigo Quispe,1846.0,,,washed,1,1,0,0,1,0,0,1,6,2,0,24,1,2,1,5,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+185,27,Perú,2023,87.68,Kukipata,15.3,10032.21,"Wolfing Coffee, Doris Coffee Lab",Yesica Chavez Nieve,2150.0,,,washed,0,0,0,0,0,0,0,0,5,7,4,35,2,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+186,28,Perú,2023,87.56,Arco Iris,13.5,8547.12,"Wataru & Co., Ltd.",Nelly Lucia Alagon Latorre,1780.0,,,washed,0,0,0,0,0,0,1,0,4,1,0,8,1,0,3,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+187,29,Perú,2023,87.53,Ermelita,15.9,11392.35,M.I.Coffee Corporation,Dreyde Perez Delgado,1960.0,,,washed,0,0,0,0,0,0,0,2,8,9,3,32,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+188,30,Perú,2023,87.53,Rayos Del Sol,11.6,7544.18,"Wataru & Co., Ltd.",Percy Pintado Huaman,1700.0,,,washed,1,0,0,0,0,1,0,2,9,9,0,20,1,0,1,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,467 @@
+,Rank,Country,Year,COE_score,Farm,High_bid,Total_value,Company,Farmer/Rep.,Altitude,City,Region,Process,Clean_and_clear,Balance_cup,Transparent_cup,Creamy_body,Big_body,Long_aftertaste,Roasted_flavor,Spices_flavor,NuttyCocoa_flavor,Sweet_flavor,Floral_flavor,Fruity_flavor,GreenVegetative_flavor,Winey_flavor,Malic_acidity,Citric_acidity,Tartaric_acidity,Lactic_acidity,Complex_acidity,geisha,pacamara,catuai,caturra,bourbon,typica,sl-28,sl-34,colombia,74112,74110,74158,mixed_variety
+0,1,El Salvador,2020,90.31,Divina Providencia,80.1,51079.77,"Maruyama Coffee, Uchida Coffee, Harrods, Difference Coffee, Cometeer, Goodboybob Coffee",Roberto Samuel Ulloa Vilanova,900.0,PALO DE CAMPANA,Santa Ana,anaerobic,0,0,0,1,0,0,0,0,3,0,1,12,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1,1,El Salvador,2020,90.31,Divina Providencia,60.1,37762.03,AL QAHWA AL ARABIAH,Roberto Samuel Ulloa Vilanova,900.0,PALO DE CAMPANA,Santa Ana,anaerobic,0,0,0,1,0,0,0,0,3,0,1,12,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2,2,El Salvador,2020,89.91,La Bonita,30.5,27785.5,"Kyokuto Fadie Corporation & ARAB COFFEE CO., LTD.",Norelvia Angelica Elias De Diaz,1950.0,JOCOTAN,Chalatenango,washed,0,0,0,0,0,0,0,1,1,5,1,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+3,3,El Salvador,2020,89.53,Mileydi,26.8,27336.0,"Time’s Club, Coffee Libre, Valley Coffee(China), EL CAFE coffee roasters, Coffee Montage, 304 roasters, Coffee Place, FEBRUARY ROASTERS",Ever Leonel Diaz Perez,1250.0,SAN JOSE SACARE,Chalatenango,washed,0,0,0,0,0,0,0,0,2,0,0,12,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+4,4,El Salvador,2020,89.16,La Pacaya,48.6,43059.6,Fisher Coffee / M2M Coffee Roasters / 广州犀咖烘焙有限公司 / 啟程拓殖 / 芦田家咖啡研习社 / Captain George Coffee Roaster / Latorre & Dutch Coffee (China),"Mav, S.A. De C.V.",1700.0,PORTEZUELOS,Sonsonate,natural,0,0,0,0,1,0,0,1,1,1,4,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5,5,El Salvador,2020,89.06,Los Angeles,22.5,24637.5,Cypher Roastery LLC,"Los Naranjos Cafe, S.A. De C.V.",1400.0,TALTAPANCA,Ahuachapan,anaerobic,0,0,0,0,0,0,0,0,2,0,1,15,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6,6,El Salvador,2020,88.81,El Amel,20.3,12078.5,BLACKUP COFFEE COMPANY,Ariz Y Compañia,1200.0,LOS HUATALES,Ahuachapan,honey,0,0,0,0,0,0,0,0,1,5,2,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+7,7,El Salvador,2020,88.75,El Aguila,17.6,15628.8,Campos Coffee,Primos Ariz Valdivieso Y Compañia,1400.0,OJO DE AGUA,Santa Ana,natural,0,0,0,0,0,0,0,0,4,1,2,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,8,El Salvador,2020,88.69,La Bendicion 2,17.2,27141.6,Sarutahiko Coffee Inc.,Roberto Samuel Ulloa Rusconi,1400.0,CALZONTES ARRIBA,Santa Ana,anaerobic,0,0,0,0,0,0,0,0,0,1,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+9,9,El Salvador,2020,88.69,Benasque,19.1,16960.8,M.I.COFFEE CORPORATION,Exportadora Agricola Comercial S.A. De C.V.,1300.0,SAN JUAN LOMA ALTA,Usulutan,honey,0,0,0,0,0,0,0,1,3,2,5,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+10,10,El Salvador,2020,88.5,Santa Rosa,19.9,10785.8,Kyokuto Fadie Corporation,J. Raul Rivera S.A. De C.V.,1550.0,SANTA ROSA,Chalatenango,honey,0,0,0,0,0,0,0,0,2,1,1,11,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+11,11,El Salvador,2020,88.38,Las Palmas,14.0,13286.0,"Bohemian (An-am), ESCUDO Coffee","Agricafe, S.A. De C.V.",1425.0,SAN JOSE,Usulutan,natural,0,0,0,0,0,0,0,0,2,2,2,14,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+12,12,El Salvador,2020,88.31,El Derrumbo,19.7,24112.8,TAKAMURA COFFEE ROASTERS,Vicente Rafael Diaz Vasquez,1100.0,SAN JOSE SACARE,Chalatenango,washed,0,0,0,1,0,0,0,0,5,3,2,6,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+13,13,El Salvador,2020,87.88,La Campanula,20.2,13554.2,Orsir Coffee(Taiwan),"Zapotal, Sociedad Anonima De Capital Variable.",1800.0,PALO DE CAMPANA,Santa Ana,washed,0,0,0,0,0,0,0,1,1,3,2,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,14,El Salvador,2020,87.75,Las Duanas,23.1,9240.0,Sulalat Coffee Trading,J. Raul Rivera S.A. De C.V.,1000.0,SANTA ROSA,Chalatenango,natural,0,0,0,0,0,0,0,1,3,2,0,14,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+15,15,El Salvador,2020,87.75,Noruega,33.2,21380.8,Sulalat Coffee Trading,"Los Naranjos Cafe, S.A. De C.V.",1400.0,QUEZALAPA,Ahuachapan,anaerobic,0,0,0,0,0,0,1,0,1,0,0,8,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+16,16,El Salvador,2020,87.63,Las Ventanas,12.65,21036.95,Honu Kato Coffee Inc.,Elisa Beatriz Aguilar Landaverde,1200.0,EL TUNEL,Chalatenango,washed,0,0,0,0,0,0,0,0,4,6,1,7,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+17,17,El Salvador,2020,87.63,Roxanita,13.1,8816.3,"COFFEE COUNTY, RIO COFFEE, KARIOMONS COFFEE ROASTER",Ignacio Gutierrez Solis,1400.0,EL TUNEL,Chalatenango,natural,0,0,0,0,0,0,0,1,3,2,1,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+18,18,El Salvador,2020,87.5,Las Brumas,14.1,13959.0,"Wataru & Co., Ltd.",Juan Jose Ernesto Menendez Arguello,1900.0,TUNALMILES,Sonsonate,others_process,0,0,0,0,0,0,0,0,1,3,4,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+19,19,El Salvador,2020,87.44,El Topacio,12.7,9245.6,Wataru for Nozy Coffee,Maria Elena Avila De Muyshondt,1300.0,JUAN DE DIOS,Sonsonate,natural,0,0,0,0,0,0,0,0,3,4,1,11,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+20,20,El Salvador,2020,87.25,San Andres,12.1,24756.6,"Wataru & Co., Ltd.",Jose Alfredo Recinos Diaz,1600.0,EL TUNEL,Chalatenango,natural,0,0,0,0,0,0,0,1,3,2,0,16,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+21,21,El Salvador,2020,87.25,Don Octavio,12.2,11053.2,Dabov Specialty Coffee & Ascension Coffee Roasters,Jose Octavio Umaña Valdivieso,1650.0,TALQUEZALAR,Chalatenango,honey,0,0,0,0,0,0,0,1,3,2,0,12,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22,22,El Salvador,2020,87.25,Los Pirineos,19.8,10909.8,Saza Coffee,"Agricafe, S.A. De C.V.",1400.0,SAN JOSE,Usulutan,natural,1,0,0,0,0,0,1,2,2,2,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+23,1,El Salvador,2021,91.68,Mileydi,70.0,37664.9,BIGFACE,Ever Leonel Diaz Perez,,,,others_process,0,0,0,0,0,1,0,1,2,9,2,22,0,0,1,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+24,1,El Salvador,2021,91.68,Mileydi,64.3,34021.13,"
+
+HoneyCoffee (Izaki Coffee Co. Ltd)
+
+",Ever Leonel Diaz Perez,,,,others_process,0,0,0,0,0,1,0,1,2,9,2,22,0,0,1,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+25,2,El Salvador,2021,91.29,El Conacaste,65.2,10568.92,"
+
+Coffee Me Up (Korea), Coffee Therapy (Thailand), Tob Coffee (Arnia Ltd), Cuppingpost
+⁣
+
+","Choucri, S.A. De C.V.",,,,natural,0,0,0,0,0,0,0,1,2,8,6,16,3,0,1,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+26,2,El Salvador,2021,91.29,El Conacaste,64.1,8479.15,Latorre & Dutch Coffee (China) for 喬治隊長 Captain George / 芦田家咖啡研习社,"Choucri, S.A. De C.V.",,,,natural,0,0,0,0,0,0,0,1,2,8,6,16,3,0,1,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+27,3,El Salvador,2021,90.54,Santa Elena,55.9,14070.59,BIGFACE,"Zapotal, Sociedad Anonima De Capital Variable.",,,,washed,0,0,0,0,0,0,0,1,0,4,3,15,4,0,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+28,3,El Salvador,2021,90.54,Santa Elena,52.2,13809.51,BIGFACE,"Zapotal, Sociedad Anonima De Capital Variable.",,,,washed,0,0,0,0,0,0,0,1,0,4,3,15,4,0,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+29,4,El Salvador,2021,89.68,Las Ventanas,25.1,27163.47,"
+
+Terarosa (Haksan Co. Ltd)
+
+",Elisa Beatriz Aguilar Landaverde,,,,natural,0,0,0,0,0,0,1,3,6,9,0,14,0,0,2,4,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,5,El Salvador,2021,89.46,Benasque,24.1,8739.87,Bluekoff / Factory Coffee,"Exportadora Agricola Comercial, S.A. De C.V.",,,,natural,0,0,0,0,0,0,2,1,9,5,3,14,0,0,0,3,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+31,6,El Salvador,2021,89.32,La Pacaya,41.0,11982.25,"
+
+Arriyadh Roaster
+
+","Mav, S.A. De C.V.",,,,natural,0,0,0,0,0,0,1,1,6,6,4,11,2,0,2,4,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+32,7,El Salvador,2021,89.25,Tres Pozos,14.5,12354.87,"
+
+DABOV Specialty Coffee, Mókuska Caffè, Erste Tegernseer Kaffeerösterei
+
+",Dolores Amando Guardado Quintanilla,,,,natural,0,0,0,0,0,0,1,1,7,6,1,17,0,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+33,8,El Salvador,2021,89.11,La Bendicion 2,30.7,17383.57,"
+
+Sulalat Coffee Trading
+
+",Roberto Samuel Ulloa Rusconi,,,,anaerobic,0,0,0,0,0,0,0,2,5,5,1,15,0,4,2,2,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+34,9,El Salvador,2021,89.04,La Libertad,30.0,10735.8,"
+
+CK Corporations for Lusso Coffee
+
+",Petronilo Antonio Caceres Salguero,,,,natural,0,0,0,0,0,0,1,0,2,3,4,14,0,1,2,1,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+35,10,El Salvador,2021,88.64,La Esperanza,38.85,18543.88,Latorre & Dutch Coffee (China) for 剁手咖啡群（Cut Hand Group）/ 啟程拓殖 / M2M COFFEE / MANNER COFFEE（China）/ Small Arms Big Heart 有容乃大,"Inversiones Santonano, S.A. De C.V.",,,,honey,0,0,0,0,0,0,1,0,7,8,5,11,2,0,2,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,11,El Salvador,2021,88.5,La Bonita,17.3,17655.86,"
+
+Sarutahiko Coffee Inc.
+
+",Norelvia Angelica Elias De Diaz,,,,others_process,0,0,0,0,0,0,0,0,2,5,2,21,1,0,0,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+37,12,El Salvador,2021,88.5,Santa Rosa,22.55,6455.84,"Boqueron Coffee 火萨
+百啡待兴100FFEE CAFE
+KOMENCU Coffee（启程）","J.Raul Rivera, S.A. De C.V.",,,,honey,0,0,0,0,0,0,0,2,4,4,0,8,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+38,13,El Salvador,2021,88.4,Santa Juana,38.85,19923.06,Latorre & Dutch Coffee (China) for FISHER COFFEE 啡舍 / 啟程拓殖 / MANNER COFFEE (China）/ 领地 La Finca,Pacvil S. A. De C.V.,,,,natural,0,0,0,0,0,0,0,0,0,2,4,12,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,14,El Salvador,2021,88.23,Don Octavio,14.2,7079.98,Wataru for Voila Coffee,Jose Octavio Umaña Valdivieso,,,,honey,0,0,0,0,0,0,1,0,3,3,1,21,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+40,15,El Salvador,2021,88.13,Los Pozos,11.4,13234.03,"
+
+Kaffebrenneriet As
+
+",Isaura Cecilia Aguilar Landaverde,,,,washed,0,0,0,0,0,0,0,2,5,7,2,16,0,0,2,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+41,16,El Salvador,2021,87.97,El Milagro,15.1,9155.28,"Boqueron Coffee 火萨
+云南物海文亮
+Global Beans
+嗒啡馆Coffee Daap",Joaquin Elias Guillen,,,,natural,0,0,0,0,0,0,1,0,1,3,1,21,1,1,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+42,17,El Salvador,2021,87.57,La Montañita,11.2,12938.13,"
+
+Kyokuto Fadie Corporation
+
+",Antonio Aguilar Lemus,,,,washed,0,0,0,0,0,0,0,0,5,7,2,14,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+43,18,El Salvador,2021,87.5,El Aguila,14.4,7307.28,"
+
+Tashiro Coffee Co., Ltd
+
+",Primos Ariz Valdivieso Y Compañia,,,,natural,0,0,0,0,0,1,0,2,2,5,1,15,0,1,1,3,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+44,19,El Salvador,2021,87.5,Santa Josefita,11.1,14322.0,"
+
+Wataru & Co., Ltd.
+
+","Ipala, Sociedad Anonima De Capital Variable",,,,washed,0,0,0,0,0,0,0,1,3,8,1,15,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+45,20,El Salvador,2021,87.5,Las Margaritas,14.3,7002.0,"
+
+Thood Qahwa LTD Co
+
+","Santa Margarita De Apaneca, S.A. De C.V.",,,,natural,0,0,0,0,0,0,1,1,7,5,1,13,1,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+46,21,El Salvador,2021,87.47,El Izotal,9.7,13124.68,"
+
+Wataru & Co., Ltd.
+
+","Aserradero Y Venta De Madera El Pinar, S.A. De C-.V.",,,,natural,0,0,0,0,0,1,0,2,5,7,2,15,0,1,1,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+47,22,El Salvador,2021,87.27,Siberia,14.2,7302.49,"
+
+COFFEE COUNTY
+
+",Rafael Enrique Silva Hoff,1675.0,,,anaerobic,0,0,0,0,0,0,0,2,5,7,1,16,1,0,1,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+48,23,El Salvador,2021,87.23,San Carlos Dos,13.1,7698.74,"
+
+Wataru & Co., Ltd.
+
+",Asoc.Coop.De Prod.Agrop.San Carlos Dos De R.L.,,,,natural,0,0,0,0,0,0,1,1,8,5,1,12,1,0,1,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+49,24,El Salvador,2021,87.2,Plan Del Hoyo,11.2,11677.12,"
+
+Kaffebrenneriet As
+
+","Monserrate, S.A. De C.V.",,,,honey,0,0,0,0,0,0,0,1,5,2,1,16,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,1,El Salvador,2022,91.82,El Conacaste,72.1,19077.66,"
+
+Curve Specialty coffee Roastery
+
+","Choucri, S.A. De C.V.",,,,natural,1,1,0,0,0,1,0,0,1,7,7,15,1,0,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+51,1,El Salvador,2022,91.82,El Conacaste,72.2,15963.42,"
+
+Coffee Me Up (Korea), Mad Priest Coffee, Studio Caffeine, Coffee Therapy (Thailand)
+
+","Choucri, S.A. De C.V.",,,,natural,1,1,0,0,0,1,0,0,1,7,7,15,1,0,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+52,2,El Salvador,2022,90.36,Santa Rosa,18.1,4789.26,"
+
+Terarosa (Haksan Co. Ltd)
+
+","J.Raul Rivera, S.A. De C.V.",,,,others_process,1,1,1,0,0,0,0,1,2,4,3,15,0,1,2,1,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+53,2,El Salvador,2022,90.36,Santa Rosa,16.8,3692.64,"
+
+CAFFE PASCUCCI
+
+","J.Raul Rivera, S.A. De C.V.",,,,others_process,1,1,1,0,0,0,0,1,2,4,3,15,0,1,2,1,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+54,3,El Salvador,2022,90.23,Cueva De La Olla,16.3,7026.93,Saza Coffee,Jose Efrain Landaverde Flores,,,,washed,1,1,0,1,0,1,0,0,3,8,4,19,0,1,3,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+55,3,El Salvador,2022,90.23,Cueva De La Olla,16.3,7026.93,Orsir Coffee,Jose Efrain Landaverde Flores,,,,washed,1,1,0,1,0,1,0,0,3,8,4,19,0,1,3,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+56,4,El Salvador,2022,90.07,La Pacaya,40.1,25920.64,Saza Coffee,"Mav, S.A. De C.V.",,,,natural,1,1,0,0,0,0,0,1,3,8,10,25,2,1,2,7,2,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+57,5,El Salvador,2022,89.95,Benasque,65.3,21222.5,"
+
+ONYX COFFEE LAB
+
+","Exportadora Agricola Comercial, S.A. De C.V.",,,,natural,0,1,1,0,0,0,0,1,6,9,7,18,0,1,1,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,6,El Salvador,2022,89.63,Peña Redonda,10.55,14286.81,"
+
+Kaffebrenneriet As
+
+",Carlos Mauricio Lemus Landaverde,,,,honey,1,0,1,1,0,0,0,0,1,6,2,30,1,0,2,6,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+59,7,El Salvador,2022,89.48,La Esperanza,8.3,7279.1,"
+
+Sarutahiko Coffee Inc.
+
+","Inversiones Santonano, S.A. De C.V.",,,,anaerobic,1,0,0,1,0,0,0,0,3,8,6,19,1,0,2,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,8,El Salvador,2022,89.13,Don Jaime,9.4,4709.4,"
+
+KAKALOVE CAFE
+
+",Jaime Ricardo Guevara Chavez,,,,natural,0,1,1,0,1,0,0,1,7,5,1,26,1,1,1,4,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+61,9,El Salvador,2022,88.79,Las Duanas,25.8,7378.8,"
+
+Curve Specialty coffee Roastery
+
+","J.Raul Rivera, S.A. De C.V.",,,,natural,1,0,1,0,1,0,0,2,6,1,3,22,0,3,1,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+62,10,El Salvador,2022,88.68,La Libertad,7.8,5059.86,"
+
+Wataru & Co., Ltd.
+
+",Petronilo Antonio Caceres Salguero,,,,natural,0,1,0,0,0,1,0,0,6,4,3,23,0,1,1,3,1,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+63,11,El Salvador,2022,88.57,Santa Juana,11.6,8398.4,Campos Coffee,Pacvil S. A. De C.V.,,,,natural,1,1,0,1,0,1,0,3,2,6,3,22,0,0,4,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,12,El Salvador,2022,88.48,La Laguna,8.0,6600.0,"
+
+TAKAMURA COFFEE ROASTERS And WAVY COFFEE ROASTERS by MARUKAI
+
+",Gonzalo Antonio Ticas Reyes,,,,natural,0,1,0,1,0,0,0,2,6,9,3,13,1,0,1,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+65,13,El Salvador,2022,88.46,Finca The Sugar Maples,9.1,7744.1,"
+
+GSC International Co., Ltd.
+
+",Roxana Yamileth Zelaya Guardado,,,,natural,1,1,1,1,0,0,0,1,6,5,4,17,0,0,5,4,2,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0
+66,14,El Salvador,2022,88.43,Nejapa,18.1,7931.42,"
+
+Kyokuto Fadie Corporation
+
+",Gloria Mercedes Rodriguez Fontan,,,,natural,1,1,0,0,0,0,0,1,2,7,8,15,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,15,El Salvador,2022,88.34,Los Morales,8.0,6128.0,"
+
+Ryans Coffee Roasters. & Mayforest Inc.
+
+",Henri Milton Morales Umaña,,,,anaerobic,1,1,0,1,0,1,0,2,4,4,3,18,0,0,3,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+68,16,El Salvador,2022,88.27,Santa Fe,6.2,5593.64,"
+
+Wataru & Co., Ltd.
+
+",Edith Aracely Rodriguez De Pineda,,,,washed,1,1,1,1,1,0,0,0,11,11,5,19,2,0,1,4,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+69,17,El Salvador,2022,88.23,El Mirador,7.0,5886.3,"
+
+KAKALOVE CAFE
+
+","Zapotal, Sociedad Anonima De Capital Variable.",,,,washed,0,0,1,1,0,1,0,2,2,2,2,12,0,1,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+70,18,El Salvador,2022,88.21,La Montañita,7.4,6060.6,YN Coffee,Antonio Aguilar Lemus,,,,natural,1,1,1,1,0,1,0,0,6,8,2,19,3,0,2,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+71,19,El Salvador,2022,88.21,Las Ventanas,7.1,6269.3,"
+
+Wataru & Co., Ltd.
+
+",Elisa Beatriz Aguilar Landaverde,,,,natural,0,1,0,0,0,1,0,1,8,8,1,20,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+72,20,El Salvador,2022,88.13,Helvetia,11.1,6164.94,"
+
+Wataru for Voila Coffee
+
+",Carmen Elena Calderon Sol De Escalon,,,,natural,1,1,1,1,0,0,0,0,8,8,5,24,0,0,1,3,1,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+73,21,El Salvador,2022,88.09,Los Milagros,7.1,6296.28,"
+
+Wataru & Co., Ltd.
+
+",Serafin Escobar,,,,washed,1,1,0,0,0,0,0,1,8,11,4,21,0,0,1,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+74,22,El Salvador,2022,87.98,La Reforma,6.7,3100.09,"
+
+Wataru & Co., Ltd.
+
+","El Borbollon, S.A. De C.V.",1400.0,,,natural,1,1,0,0,0,0,0,0,6,7,3,19,1,0,1,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,23,El Salvador,2022,87.89,Las Brumas,8.3,4365.8,"
+
+Kyokuto Fadie Corporation
+
+",Juan Jose Ernesto Menendez Arguello,,,,natural,1,1,0,0,0,0,0,3,7,8,6,20,2,0,2,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+76,24,El Salvador,2022,87.89,Nombre De Dios,6.6,5046.36,"
+
+Wataru & Co., Ltd.
+
+",Maria Elena Dominguez De Botto,,,,natural,0,1,0,0,0,0,0,1,4,6,4,24,0,2,1,1,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+77,25,El Salvador,2022,87.86,Finca El Pezote,7.0,6209.0,"
+
+List + Beisler GmbH
+
+",Hugo Alfonso Pineda Rodriguez,,,,washed,0,0,0,1,0,1,0,0,2,9,1,21,0,0,1,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+78,26,El Salvador,2022,87.61,San Andres,7.2,6141.6,"
+
+Honu Kato Coffee Inc.
+
+",Jose Alfredo Recinos Diaz,,,,natural,1,1,0,1,0,0,0,1,8,8,4,12,0,0,2,3,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+79,27,El Salvador,2022,87.45,Siberia,6.6,2793.12,"
+
+Wataru for OGAWA COFFEE
+
+",Rafael Enrique Silva Hoff,,,,anaerobic,1,0,0,1,0,0,0,1,6,3,2,17,0,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,1,El Salvador,2023,91.82,MILEYDI,59.9,31693.69,"Orsir International Co., Ltd. – Taiwan",NORELVIA ANGELICA ELIAS DE DIAZ,,,,others_process,1,0,1,1,0,1,0,0,2,5,2,10,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+81,1,El Salvador,2023,91.82,MILEYDI,58.6,27130.04,Snow Beans Coffee – Japan. WAVY COFFEE. Songdo Coffee. RIO COFFEE,NORELVIA ANGELICA ELIAS DE DIAZ,,,,others_process,1,0,1,1,0,1,0,0,2,5,2,10,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+82,2,El Salvador,2023,91.23,LOS MORALES 1,30.2,12719.64,"Songdo Coffee_South Korea
+Snow Beans Coffee, Bean Brothers Rosa, ONE TO TWO COFFEE, Big Black Box",HENRI MILTON MORALES UMAÑA,,,,natural,1,0,1,1,1,1,0,0,1,3,4,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+83,2,El Salvador,2023,91.23,LOS MORALES 1,30.1,11944.58,CHG(剁手咖啡群)/ Bean2cup Coffee / 成都澎澎/ M1咖啡奇幻工场/ 海南惊探号/ Boqueron火萨,HENRI MILTON MORALES UMAÑA,,,,natural,1,0,1,1,1,1,0,0,1,3,4,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+84,3,El Salvador,2023,90.05,SAN LUIS DE LOS RECUERDOS,20.1,6646.87,"coffee lusso, ArounZ – South Korea",ROBERTO SAMUEL ULLOA RUSCONI,,,,anaerobic,1,0,1,1,0,0,1,1,4,4,0,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+85,3,El Salvador,2023,90.05,SAN LUIS DE LOS RECUERDOS,19.0,6283.11,Brew92 – Saudi Arabia,ROBERTO SAMUEL ULLOA RUSCONI,,,,anaerobic,1,0,1,1,0,0,1,1,4,4,0,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+86,4,El Salvador,2023,89.89,LA MONTAÑA,15.3,10480.65,Kyokuto Fadie Corporation – Japan,FRANCISCO ALEXANDER OCHOA ROMERO,,,,others_process,1,0,0,0,0,1,0,0,2,2,2,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,5,El Salvador,2023,89.89,LA ARADA,9.15,13918.89,"Mercanta North America for Cartel Roasting Co., Mercanta Limited UK.",CRISTOBAL CARTAGENA SANTAMARIA,,,,honey,1,0,0,1,0,1,1,2,5,4,3,12,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+88,6,El Salvador,2023,89.54,NUEVA GRANADA,12.7,10079.48,Madcap Coffee Company – United States of America,ROBERTO RICARDO HUEZO RODRIGUEZ,1380.0,,,washed,1,0,1,1,0,1,0,0,1,3,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,7,El Salvador,2023,89.36,DIVINA PROVIDENCIA,13.0,12037.22,La Cabra – Denmark,ROBERTO ULLOA VILANOVA,,,,natural,1,0,0,1,0,1,0,1,3,2,2,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+90,8,El Salvador,2023,89.25,PLAN DEL HOYO,6.1,10248.12,honu加藤珈琲店株式会社 – Japan,"MONSERRATE, S.A. DE C.V.",,,,natural,1,0,1,1,0,0,0,1,6,4,2,11,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+91,9,El Salvador,2023,88.91,LOS MORALES 2,8.0,8994.88,COFFEE COUNTY – Japan,HENRI MILTON MORALES UMAÑA,,,,honey,1,0,0,1,0,1,0,0,1,3,4,12,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+92,10,El Salvador,2023,88.84,EL MIRADOR,13.1,7716.03,M.I.Coffee Corporation – South Korea,ROBERTO ULLOA VILANOVA,,,,anaerobic,1,0,1,1,0,0,0,2,5,3,1,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+93,11,El Salvador,2023,88.7,SANTA FE,16.4,10561.76,Wataru for WOODBERRY COFFEE – Japan,EDITH ARACELY RODRIGUEZ DE PINEDA,,,,anaerobic,1,0,1,1,0,1,0,1,5,3,1,18,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+94,12,El Salvador,2023,88.66,LAS MARIAS,19.1,7579.45,DECAMERON COFFEE – China,"INMOBILIARIA TURISTICA, S.A. DE C.V.",,,,natural,1,0,1,0,0,1,0,0,2,3,3,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+95,13,El Salvador,2023,88.55,LAS DUANAS,8.1,12044.78,Kyokuto Fadie Corporation – Japan,ENRIQUE MENA GUTIERREZ,,,,anaerobic,1,0,0,1,0,0,0,2,3,4,0,14,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+96,14,El Salvador,2023,88.54,TALQUEZALAR,6.4,5414.46,List & Beisler – Germany,IRENE DEL SOCORRO GONZALES SOZA,,,,washed,1,0,1,1,0,0,0,1,6,4,2,14,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+97,15,El Salvador,2023,88.46,MILAN,15.3,5798.7,"Xiamen Doowell Ocean Biotechnology Co., Ltd. – China","INMOBILIARIA TURISTICA, S.A. DE C.V.",,,,anaerobic,1,0,1,0,0,1,0,0,1,3,4,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+98,16,El Salvador,2023,88.25,LA MANUELA,6.1,5801.16,1895 by Lavazza – Italy,"CUCHUBAL, S.A. DE C.V.",,,,anaerobic,0,0,0,0,0,1,0,1,6,3,2,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,17,El Salvador,2023,88.11,SAN NICOLAS,16.4,9708.96,Wataru for Voila Coffee. – Japan,JOSE EDGARDO GUTIERREZ DIAZ,,,,anaerobic,1,0,0,1,0,0,0,1,5,7,1,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+100,18,El Salvador,2023,88.09,D.R.,6.0,6349.32,"Wataru & Co., Ltd. – Japan",MORENA ELIZABETH LANDAVERDE DE RODRIGUEZ,,,,anaerobic,1,0,0,1,0,0,0,1,5,7,1,13,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+101,19,El Salvador,2023,88.05,LOS AZACUANES,6.8,4855.27,Brew92 – Saudi Arabia,"INVERSIONES GECA, S.A. DE C.V.",,,,anaerobic,1,0,0,1,0,1,0,0,5,2,1,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+103,21,El Salvador,2023,87.91,SANTA LETICIA,5.4,5000.08,"Wataru & Co., Ltd. – Japan","PAMON, S.A. DE C.V.",,,,natural,1,0,1,1,0,1,0,1,3,2,1,10,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+104,22,El Salvador,2023,87.73,EL ZAPOTE (ETHIOPIA),6.9,4347.07,NOZY COFFEE – Japan,DAVID VELASQUEZ GOMEZ,,,,natural,0,0,1,1,0,0,0,0,2,4,0,7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+105,23,El Salvador,2022,87.66,PEÑA REDONDA,7.15,6106.17,"Wataru & Co., Ltd. – Japan",CARLOS MAURICIO LEMUS LANDAVERDE,,,,honey,1,0,0,1,0,0,0,1,1,2,2,10,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+106,24,El Salvador,2023,87.64,EL TARRO,5.2,3936.45,"Wataru & Co., Ltd. – Japan",GERARDO ENRIQUE MENDEZ FLOREZ CABEZAS,,,,anaerobic,1,0,0,1,0,1,0,1,9,6,0,13,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+107,25,El Salvador,2023,87.63,EL GUAJE,5.2,4076.85,"Wataru & Co., Ltd. – Japan",MARIA ELENA MARGARITA ORTIZ HERRERA DE MENDEZ,,,,natural,1,0,0,1,0,1,0,1,9,6,0,13,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+108,26,El Salvador,2023,87.59,PINAR DE SANTIAGO,5.0,3968.3,NOZY COFFEE – Japan,"BORJA LETONA, S.A. DE C.V",,,,natural,0,0,0,0,0,1,0,1,6,3,2,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,27,El Salvador,2023,87.55,SANTA PETRONA,5.5,3637.65,honu加藤珈琲店株式会社 – Japan,"TEJEMET, S.A. DE C.V.",1500.0,,,natural,1,0,0,1,0,1,0,1,9,6,0,13,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+110,28,El Salvador,2023,87.54,LOS ANGELES,5.4,2035.8,珈琲豆专门店/ 成都澎澎/ 海南惊探号/ Boqueron火萨,"INTERMUNDIAL, S.A. DE C.V.",,,,natural,1,0,1,1,0,0,0,1,6,4,2,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,29,El Salvador,2023,87.5,HOLANDA,5.1,3988.25,"Wataru & Co., Ltd. – Japan",CARLOS MAURICIO ALBERTO ESCALON PACAS,,,,anaerobic,1,0,1,1,0,1,0,0,1,3,1,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+112,1,El Salvador,2013,90.37,San Nicolas A,50.1,90180.0,"UCC Ueshima Coffee Co., Ltd.",Jose Edgardo Gutierrez Diaz,1500.0,La Palma,Chalatenango,washed,0,0,0,1,1,0,0,1,2,5,0,6,0,0,2,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+113,2,El Salvador,2013,89.8,Tablon El Copo,25.1,39532.5,"Maruyama Coffee, Yamada Coffee",Mauricio Arturo Salaverria Caceres,1400.0,Juayua,Sonsonate,others_process,0,0,0,0,0,1,0,1,1,2,2,4,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+114,3,El Salvador,2013,89.1,Suiza,17.1,37620.0,"Time’s Club, HoneyCoffee, Tashiro coffee, Momos Coffee, Coffee Radio and Coffee Libre",Julia Margarita Martinez Molina,1650.0,Santa Ana,Apaneca-Ilamatepec,washed,0,0,0,0,1,1,0,2,0,1,1,6,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,4,El Salvador,2013,88.8,Peña Redonda,10.7,25680.0,"LAF/Almacielo, Roasting House, Coffee Radio",Carlos Mauricio Lemus Landaverde,1500.0,La Palma,Chalatenango,others_process,0,0,0,1,0,1,0,1,2,2,0,3,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+116,5,El Salvador,2013,88.3,Andalucia – {O},25.2,28980.0,Terarosa Coffee (Korea),Sociedad Lima Y Hermanos,1350.0,Ahuachapan,Apaneca-Ilamatepec,washed,0,0,0,1,1,0,0,1,2,2,1,3,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+117,5,El Salvador,2013,88.3,Divina Providencia,12.0,22800.0,Monmouth Coffee Company,Roberto Samuel Ulloa Vilanova,1650.0,Santa Ana,Apaneca-Ilamatepec,washed,0,1,0,1,0,1,0,0,4,3,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+118,6,El Salvador,2013,87.63,Santa Elena – {O},20.2,24543.0,"Terarosa Coffee, Beanybeans & BoKKum Coffee Roasters, Pohang Arabica, Rawbean Coffee Academy, Wonhyoro Coffee (Korea)",Julia Rosa Mena de Lima,1850.0,Santa Ana,Santa Ana,washed,0,1,0,0,1,1,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+119,7,El Salvador,2013,87.6,La Gloria,10.2,26316.0,"Melbourne Coffee Merchants on behalf of Cup Coffee, Ministry Grounds, Market Lane Coffee, Cleanskin Coffee Co, Merlo Coffee, Monk Bodhi Dharma, Genovese // Mercanta The Coffee Hunters on behalf of Kéan Coffee(USA), Twoday Coffee Roasters (UK), Camolini (Germany), Dutch Barista Coffee (Holland), Caffè Cataldi (France), Kaffitár (Iceland)",Graciela Cáceres Martinez,1700.0,Nueva San Salvador,La Libertad,washed,0,0,0,1,0,1,0,1,2,2,2,5,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+120,8,El Salvador,2013,87.3,Malacara Lote B,8.0,22400.0,M.I. COFFEE CORPORATION,"Chantuc, S.A. De C.V.",1500.0,Santa Ana,Apaneca-Ilamatepec,washed,0,0,0,1,0,1,0,1,2,3,1,2,0,0,2,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+121,9,El Salvador,2013,87.17,Santa Julia,7.2,22320.0,Gamsung international coffea coffee Inc.,Ricardo Alonso Escobar Vasquez,1500.0,Chalchuapa,Santa Ana,washed,0,0,0,1,0,1,0,0,2,1,0,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+122,10,El Salvador,2013,86.87,El Optimismo,6.3,21672.0,"[BUSAN GROUP] – Coffee Loves Him Roasting Company, MOMOS COFFEE, Black Up Coffee Factory, Coffee Eyagi, In Earth Coffee, COFFEE GEEKS, People N Talk Coffee & COFFEE LIBRE",Lucia Martinez De Zepeda,1500.0,Alegria,Usulutan,washed,0,0,0,1,1,0,0,0,2,1,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+123,11,El Salvador,2013,86.8,La Montañita,8.2,23780.0,Kaffebrenneriet as,Antonio Rene Aguilar Lemus,1500.0,La Palma,Chalatenango,washed,0,0,0,1,0,1,0,0,0,2,2,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+124,12,El Salvador,2013,86.33,Miravalle (2013),8.6,20210.0,"Melbourne Coffee Merchants on behalf of Ministry Grounds, Cleanskin Coffee Co, Merlo Coffee // Mercanta The Coffee Hunters on behalf of The Coffee Tree (USA), Fonté Coffee Roaster (USA), James Gourmet Coffee (UK), Kaffitár (Iceland)",Jaime Ernesto Riera Menendez,1700.0,Chalchuapa,Santa Ana,washed,0,0,0,0,0,1,0,2,1,1,0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+125,13,El Salvador,2013,86.17,San Francisco,7.6,18240.0,"TASHIRO COFFEE Co.,Ltd",Juan Carlos Rodriguez Garcia,1300.0,Chalchuapa,Santa Ana,washed,0,1,1,1,0,1,0,0,2,1,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+126,14,El Salvador,2013,86.13,Fatima,7.51,17656.01,"Nippon Coffee Trading Co.,Ltd",Carmen Duch Martinez,1480.0,"Santa Ana, Santa Ana",Apaneca-Ilamatepec,washed,0,1,1,1,0,1,0,0,2,1,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+127,15,El Salvador,2013,86.03,Caballeros B,7.91,11825.45,SILO Coffee Store and Coffee Supreme New Zealand,Alfonso Posada Ochoa,1400.0,La Palma,Chalatenango,others_process,0,0,0,0,0,1,0,0,2,1,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+128,16,El Salvador,2013,86.0,El Corozo 1,7.6,9720.4,NAGAHAMA COFFEE Inc.,Lima y Socios,1800.0,Santa Ana,Santa Ana,washed,0,0,0,1,1,0,0,1,5,2,2,4,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+129,17,El Salvador,2013,85.97,San Nicolas B,7.2,19065.6,"Wataru & Co., Ltd.",Jose Edgardo Gutierrez Diaz,1500.0,La Palma,Chalatenango,others_process,0,0,0,0,1,1,0,2,2,2,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+130,18,El Salvador,2013,85.83,Pacamaral,6.0,18918.0,"Wataru & Co., Ltd.",Eduardo Francisco de Jesús Castro Magaña,1420.0,"Apaneca, Ahuachapán",Apaneca-Ilamatepec Mountain Range,washed,0,0,0,1,0,0,0,1,1,2,1,3,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+131,19,El Salvador,2013,85.8,La Begona,6.6,24420.0,Seven Seeds,Oscar Ernesto Aguilar Jovel,1350.0,La Palma,Chalatenango,washed,0,0,0,0,0,1,0,1,2,2,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,20,El Salvador,2013,85.77,Santa Rosa,5.6,21358.4,honuKATOCOFFEE Inc.,J. Raul Rivera S.A. de C.V.,1500.0,Chalatenango,Alotepec-Metapán,washed,0,0,0,1,0,0,0,0,2,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+133,21,El Salvador,2013,85.67,Luz Estela,6.0,17442.0,"[BUSAN GROUP] – Coffee Loves Him Roasting Company, MOMOS COFFEE, Black Up Coffee Factory, Coffee Eyagi, In Earth Coffee, COFFEE GEEKS, People N Talk Coffee & COFFEE LIBRE",Custodio S.A. de S.V.,1600.0,Santa Ana,Santa Ana,washed,0,0,0,1,0,1,0,1,2,3,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,22,El Salvador,2013,85.53,Las Brumas,7.1,8867.9,"Wataru & Co., Ltd.",Juan Jose Ernesto Menendez Arguello,1460.0,Sonsonate,Apaneca-Ilamatepec,washed,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+135,23,El Salvador,2013,85.47,La Lagunita,6.6,7939.8,"Wataru & Co., Ltd.",Gloria Mercedes Rodriguez Fontan,1620.0,Apaneca,Ahuachapan,washed,0,0,0,1,1,0,0,0,0,0,1,2,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+136,24,El Salvador,2013,85.43,Himalaya – Tablon Divisadero,6.5,9295.0,CHOI Coffee Roasters Company & Seoul Barista School,Mauricio Arturo Salaverria Caceres,1550.0,Apaneca,Ahuachapan,washed,0,0,0,1,0,1,0,0,2,2,1,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+137,25,El Salvador,2013,85.3,Bello Horizonte,6.1,13511.5,"Falcon Speciality Green Coffee Importers, Small Batch Coffee Company",Jose Thomas Calderon Sol,1600.0,Santa Tecla,La Libertad,washed,0,0,0,1,0,1,0,0,3,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,1,El Salvador,2014,91.41,Santa Rosa Chalatenango Lote 2,28.8,42163.2,"ALMACIELO (SOUTH KOREA), CAFE DAZAC, ROASTING HOUSE",J. Raul Rivera S.A. de C.V.,1500.0,San Ignacio,Calatenango,honey,0,0,0,1,1,1,0,1,0,1,1,7,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+139,2,El Salvador,2014,91.12,La Bendición,29.5,33335.0,"Maruyama Coffee, Adachi Coffee, Yamada Coffee, Saza Coffee",Ismael Recinos Flores,1700.0,Tejutla,Calatenango,honey,0,0,0,0,1,1,0,1,0,0,2,10,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+140,3,El Salvador,2014,89.65,Divina Providencia Tablon…,20.7,21921.3,TERAROSA COFFEE (S. KOREA),Roberto Samuel Ulloa Vilanova,1650.0,Santa Ana,Santa Ana,washed,0,0,0,1,0,1,0,0,1,4,1,4,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+141,4,El Salvador,2014,89.15,Peña Redonda – 14,15.6,25209.6,elbgold Roestkaffee GmbH,Carlos Mauricio Lemus Landaverde,1500.0,La Palma,Chalatenango,others_process,1,0,0,1,1,1,0,1,2,5,0,6,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+142,5,El Salvador,2014,88.97,Divina Providencia Tablon…,11.95,16861.45,"M.I. COFFEE CO.,LTD.",Roberto Samuel Ulloa Vilanova,1650.0,Santa Ana,Santa Ana,washed,0,0,0,1,1,0,0,3,2,1,1,8,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+143,6,El Salvador,2014,88.82,El Pireo,8.3,18426.0,ContiBio S.L.,"El Pireo, S.A. de C.V.",1350.0,Chalchuapa,Santa Ana,washed,0,0,0,1,1,0,0,1,2,3,0,4,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+144,7,El Salvador,2014,88.74,La Lagunita – 14,10.05,15798.6,"momos coffee, Coffee Libre",Gloria Mercedes Rodriguez Fontan,1650.0,Apaneca,Ahuachapan,washed,0,1,0,1,0,1,0,0,3,2,0,3,2,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+145,8,El Salvador,2014,88.62,San Andrés 2,13.54,18658.12,SAZA COFFEE (JAPAN),José Alfredo Recinos Diaz,1700.0,La Palma,Chalatenango,honey,0,1,0,0,0,1,0,0,1,2,2,5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+146,9,El Salvador,2014,88.26,La Esmeralda – 14,10.4,15173.6,Campos Coffee,Oscar Roberto Murgas Linares,1350.0,Ahuachapan,Ahuachapan,others_process,0,0,0,1,0,0,0,0,3,3,1,3,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+147,10,El Salvador,2014,88.15,San Blas,8.1,15252.3,"32cup, cantata, dutchbaristacoffee.nl, vivasara","Monte San Blas, S.A. de C.V.",1600.0,Santa Ana,Santa Ana,washed,0,0,0,1,0,1,0,0,2,5,0,6,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+148,11,El Salvador,2014,87.03,El Ausol / El Topacio,8.7,11179.5,"TOA COFFEE Co.,Ltd.",Maria Elena Avila de Muyshondt,1600.0,Juayua,Sonsonate,washed,0,0,0,1,0,0,0,1,1,1,2,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,12,El Salvador,2014,86.97,Santa Rosa Chalatenango Lote 1,13.11,18563.76,Coffee Magazine Company Ltd.,J. Raul Rivera S.A. de C.V.,1600.0,San Ignacio,Chalatenango,washed,1,0,0,1,0,1,0,0,0,1,1,3,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+150,13,El Salvador,2014,86.59,Villa Galicia,8.0,11648.0,"TASHIRO COFFEE Co.,Ltd",Mauricio Arturo Salaverriea Caceres,1300.0,Concepcion de Ataco,Ahuachapan,others_process,0,0,0,1,0,0,0,1,0,2,1,4,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+151,14,El Salvador,2014,86.5,Caballeros,8.1,11850.3,Axil Coffee Roasters,Alfonso Posada Ochoa,1400.0,La Palma,Chalatenango,honey,0,0,0,1,0,0,0,0,2,1,0,4,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+152,15,El Salvador,2014,86.21,Las Nubes {O} – 14,7.8,10654.8,"Time’s Club, Honey Coffee, COFFEE LIBRE",Ernesto Lima Mena,1370.0,Nahuizalco,Sonsonate,washed,0,0,0,0,1,1,0,0,1,3,1,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+153,16,El Salvador,2014,86.1,Escocia,8.0,12592.0,Has Bean Coffee Ltd,"Caledonia, S.A. de C.V.",1200.0,Berlin,Usulutan,washed,0,0,1,0,0,0,0,0,3,3,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,17,El Salvador,2014,86.09,Las Brumas Tablon Los Venados,9.0,9891.0,Solberg & Hansen AS,Juan Jose Ernesto Menendez Arguello,1600.0,Izalco,Sonsonate,honey,0,0,0,1,0,1,0,1,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+155,18,El Salvador,2014,86.03,San Luis,8.0,14712.0,"Mercanta Ltd on behalf of Twoday Coffee Roasters, Ozone Coffee Roasters, Artisan Roast, Small Batch Coffee Company, Cafe Mokxa, Artisan Roast and Murnauer Kaffeerösterei GmbH",Jose Figueroa Arbizu y Cia.,1300.0,Santa Ana,Santa Ana,washed,1,0,0,1,0,0,0,0,1,0,1,2,2,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+156,19,El Salvador,2014,85.97,El Conrodal,7.6,16826.4,Kaffebrenneriet as,Jose Armando Portillo Peraza,1400.0,La Palma,Chalatenango,honey,0,0,0,1,0,1,0,0,0,1,0,4,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+157,20,El Salvador,2014,85.88,Tablon La Montaña – Fca. Las…,8.3,8349.8,Kyokuto Fadie Corporation,Juan Jose Ernesto Menendez Arguello,1650.0,Izalco,Sonsonate,honey,0,0,0,1,0,1,0,0,3,3,2,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+158,20,El Salvador,2014,85.88,Miravalle – 14,7.2,10771.2,"ALMACIELO (SOUTH KOREA), CAFE DAZAC, EO-NEU-JO-EUN-NAL (ONE FINE DAY COFFEE KOREA)",Jaime Ernesto Riera Menendez,1700.0,Santa Ana,Santa Ana,washed,0,0,0,1,1,0,0,1,0,1,0,3,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+159,21,El Salvador,2014,85.79,El Guachipilin,7.28,8925.28,"Melbourne Coffee Merchants on behalf of Coffee Alchemy, Market Lane Coffee, Monk Bodhi Dharma and Ministry Grounds","H.U.,S.A.",1300.0,Chalchuapa,Santa Ana,washed,0,1,0,0,0,1,0,0,2,2,1,5,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+160,22,El Salvador,2014,85.74,Tablon Divisadero – 14,7.2,11368.8,"Wataru & Co., Ltd",Mauricio Arturo Salaverria Caceres,1550.0,Apaneca,Ahuachapan,others_process,0,0,0,1,0,1,0,0,2,3,0,4,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+161,22,El Salvador,2014,85.74,Oasis {O},8.0,10408.0,"Melbourne Coffee Merchants on behalf of Gabriel Coffee, Monk Bodhi Dharma, Ministry Grounds and Double Roasters",Ernesto Lima Mena,1380.0,Concepcion de Ataco,Ahuachapan,washed,0,1,0,1,0,0,0,1,1,0,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+162,23,El Salvador,2014,85.62,San Gabriel,6.7,7584.4,"Nippon Coffee Trading Co.,Ltd",Alex Alberto Ortiz Guerrero,1400.0,Santa Ana,Santa Ana,washed,0,0,0,1,1,0,0,0,2,1,0,4,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+163,23,El Salvador,2014,85.62,El Majahual,7.0,13307.0,"Wataru & Co., Ltd.","Yakima, S.A. de C.V.",1575.0,Juayua,Sonsonate,others_process,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+164,24,El Salvador,2014,85.56,Las Brisas,7.28,8786.96,Wataru for Nozy Coffee,"Pascri, S.A. de C.V.",1600.0,Apaneca,Ahuachapan,washed,0,0,0,0,0,1,0,0,0,0,1,3,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+165,25,El Salvador,2014,85.5,San Pablo {O},8.0,18584.0,"UCC Ueshima Coffee Co., Ltd.",Lima Y Socios,1700.0,Santa Ana,Santa Ana,washed,0,0,0,0,0,1,0,1,1,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+166,26,El Salvador,2014,85.44,Bella Vista,7.11,12869.1,"Wataru & Co., Ltd.",Jose Figueroa Arbizu y Cia.,1220.0,Santa Ana,Santa Ana,washed,0,0,0,0,0,1,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+167,27,El Salvador,2014,85.38,La Nueva – 14,7.2,9532.8,"Wataru & Co., Ltd.",Rafael Duch Martinez,1300.0,Santa Ana,Anta Ana,washed,0,0,0,0,0,1,0,0,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+168,28,El Salvador,2014,85.26,Las Tres Marias,6.29,22669.16,honuKATOCOFFEE Inc.,"Mauricio Dardano, S.A. de C.V.",1300.0,Juayua,Sonsonate,washed,0,0,0,1,0,0,0,0,0,1,0,2,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+169,29,El Salvador,2014,85.21,La Montaña,6.4,14368.0,"Cafe DAZAC, Cafe D, Coffee Sallim Factory, BeanStore, Crema Costa",Carlos Federico Riera Costa,1600.0,Tacuba,Ahuachapan,washed,0,0,0,0,0,1,0,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+170,29,El Salvador,2014,85.21,Tizapa Tablon Cajete,7.2,10029.6,Red Whale Coffee,Graciela Haydee Magaña de Fortin Magaña,1350.0,Apaneca,Ahuachapan,washed,0,0,0,1,0,0,0,1,1,0,0,3,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+171,1,El Salvador,2015,92.06,Positos de San Ignacio,23.5,27847.5,"UCC Ueshima Coffee Co., Ltd.",Ignacio Gutierrez Solis,,Chalatenango,San Ignacio,honey,0,0,0,1,0,1,0,1,2,4,1,13,3,0,1,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+172,2,El Salvador,2015,91.59,La Nueva Esperanza,23.1,30561.3,"Maruyama Coffee, Coffee a Go-Go (JAPAN) // Mesh Coffee (KOREA) // Orsir Coffee (TAIWAN)",Jose Francisco Recinos Rodriguez,,Chalatenango,Tejutla,honey,1,0,0,1,0,1,0,1,4,4,2,4,0,2,3,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+173,3,El Salvador,2015,91.44,Las Ventanas,13.0,26221.0,"Kyokuto Fadie Corporation, Time’s Club, Tashiro Coffee, TOA Coffee (JAPAN) // Coffee Libre (KOREA)",Elisa Beatriz Aguilar Landaverde,,Chalatenango,La Palma,washed,0,1,1,1,0,1,0,1,2,2,4,8,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+174,4,El Salvador,2015,89.15,El Topazio,9.2,17342.0,"Cafe DAZAC, Coffee Sallim Factory, Juk-dong Cafe D, Crema Costa",Maria Elena Avila de Muyshondt,,Sonsonate,Juayua,washed,0,0,0,1,0,1,0,1,3,3,2,7,1,1,1,1,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+175,5,El Salvador,2015,89.03,Himalaya – Divisadero,9.7,23415.8,"Almacielo, De Ballon",Mauricio Arturo Salaverria Caceres,,Ahuachapan,Apaneca,others_process,0,0,1,1,1,1,0,0,2,2,2,11,0,0,1,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+176,6,El Salvador,2015,88.97,Cruz Gorda,9.2,18556.4,Campos Coffee,Mauricio Arturo Salaverria Caceres,,Ahuachapan,Concepcion de Ataco,natural,1,0,0,1,0,1,0,1,3,3,2,13,1,0,2,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+177,7,El Salvador,2015,88.74,Villagalicia,9.15,14521.05,M.I. COFFEE CORPORATION,Mauricio Arturo Salaverria Caceres,,Sonsonate,Juayua,others_process,1,1,0,1,1,1,0,2,4,2,1,7,1,3,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+178,8,El Salvador,2015,88.32,Santa Rosa 1,14.95,11362.0,WATARU for coffee beans ROCOCO,J. Raul Rivera S.A. de C.V.,,Chalatenango,La Palma,natural,0,1,0,1,0,1,0,1,4,5,3,10,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+179,9,El Salvador,2015,87.91,Bella Vista (2015),9.1,19255.6,TERAROSA (HAKSAN Co.Ltd),Jose Figueroa Arbizu y Cia.,,Santa Ana,Santa Ana,washed,1,0,0,1,0,1,0,1,3,7,0,10,2,1,2,2,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+180,10,El Salvador,2015,87.35,El Jocotillo,8.3,10433.1,Momos Coffee,Anna Elaine del Carmen Rivas de Vega,,Santa Ana,Chalchuapa,washed,0,0,1,1,0,1,0,1,3,3,2,10,1,1,1,3,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+181,11,El Salvador,2015,87.21,Milagro el Cerro,8.0,10056.0,"GSC International Co., Ltd. (KOREA) // Shanghai Borong International Trading Co., Ltd (CHINA)",Atilio Zepeda Magaña,,Ahuachapan,Apaneca,washed,0,0,0,1,1,1,0,2,5,3,2,10,1,1,1,2,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+182,12,El Salvador,2015,87.09,Peña Redonda (2015),8.3,17288.9,"Mercanta The Coffee Hunters, Has Bean Coffee (UK) // Artisan Coffee Roasters (SCOTLAND) // Melbourne Coffee Merchants, Double Roasters, Monk Bodhi Dharma, Humblebee Coffee Roasters, Patio Coffee Roasters, Villere Coffee, Code Black Coffee, Market Lane Coffee, Ministry Grounds Coffee (AUSTRALIA)",Carlos Mauricio Lemus Landaverde,,Chalatenango,La Palma,washed,0,0,0,1,1,1,0,1,6,5,2,3,0,1,1,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+183,13,El Salvador,2015,87.06,Miravalle (2015),8.1,15001.2,"32cup (BELGIUM) // Cantata, Dutch Barista, Viva Sara, Kaffitar, 24GRAD, Balirny, Knopes, Food Service // Torr. Caffe Gourmet (ITALY)",Jaime Ernesto Riera Menendez,,Santa Ana,Santa Ana,washed,1,0,1,1,0,1,0,2,3,4,2,8,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,14,El Salvador,2015,87.03,Cerro Negro,8.1,16605.0,"Wataru & Co., Ltd.",Blanca Marina Peraza de Portillo,,Chalatenango,La Palma,honey,0,0,0,1,0,1,1,2,3,2,2,10,3,2,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,15,El Salvador,2015,87.0,El Manzano,9.05,20652.1,SPC for COFFEE@WORKS,Jose Maria Lemus Aguilar,,Chalatenango,La Palma,honey,0,0,0,1,0,1,0,1,1,3,5,16,2,1,1,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+186,15,El Salvador,2015,87.0,La Montañita (2015),8.8,18040.0,Kyokuto Fadie Corporation,Antonio Rene Aguilar Lemus,,Chalatenango,La Palma,washed,0,0,0,1,1,0,0,1,4,6,2,6,0,2,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+187,17,El Salvador,2015,86.91,Los Apeninos,8.11,10729.53,"Wataru & Co., Ltd.","Cafino, S.A. de C.V.",,Santa Ana,Santa Ana,washed,0,0,0,1,1,1,0,1,3,4,2,7,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,18,El Salvador,2015,86.47,El Conrrodal,7.5,16372.5,M.I. COFFEE CORPORATION,Jose Armando Portillo Peraza,,Chalatenango,La Palma,honey,0,0,0,1,1,1,0,2,2,3,3,10,2,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,19,El Salvador,2015,86.38,Nejapa 1 – El Recuerdo,8.01,8474.58,"GSC International Co., Ltd. (KOREA) // Shanghai Borong International Trading Co., Ltd (CHINA)",Juan Carlos Gregg Meza,,Ahuachapan,Ahuachapan,natural,0,0,0,1,0,1,0,2,3,3,2,9,0,0,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,20,El Salvador,2015,86.32,La Batalla 1,7.5,9180.0,Blooms Roastery & Craft Tea,Vera Pastora Magaña de Velasquez,,Santa Ana,Metapan,washed,0,0,0,1,1,1,0,2,3,3,1,9,2,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+191,21,El Salvador,2015,86.26,Santa Josefita (2015),7.53,14939.52,Kaffebrenneriet as,Lima y Socios,,Ahuachapan,Concepcion de Ataco,washed,0,0,0,1,0,1,1,1,5,4,2,4,0,1,2,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,22,El Salvador,2015,86.0,San Luis (2015),7.43,15967.07,32cup NV,Jose Figueroa Arbizu y Cia.,,Santa Ana,Santa Ana,washed,0,0,0,0,0,1,0,3,4,3,1,12,2,1,1,2,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+193,23,El Salvador,2015,85.97,Fatima (2015),7.5,8850.0,"TASHIRO COFFEE Co.,Ltd",Carmen Duch Martinez,,Santa Ana,San Sebastian Salitrillo,washed,0,0,0,1,1,1,0,2,4,5,2,8,0,1,1,2,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+194,24,El Salvador,2015,85.91,Las Brumas Tablon La Montaña,8.45,7452.9,MOKKA SPECIALITY COFFEE,Juan Jose Ernesto Menendez Arguello,,Sonsonate,Izalco,natural,0,0,0,1,0,1,0,1,3,3,0,13,1,3,0,2,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+195,25,El Salvador,2015,85.65,Buenos Aires,7.2,16192.8,"Wataru & Co., Ltd.","Chicabal, S.A. de C.V.",,Santa Ana,El Congo,washed,0,0,1,1,0,1,0,0,7,6,1,8,2,0,2,3,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+196,26,El Salvador,2015,85.41,La Dalia,7.4,10271.2,honuKATOCOFFEE Inc.,Carlos Roberto Jesus de Praga Guillen Chacon,,Ahuachapan,Ahuachapan,washed,0,0,0,1,1,0,1,2,5,4,1,11,2,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+197,27,El Salvador,2015,85.24,Shangrila (2015),7.4,7992.0,Latorre & Dutch Coffee Traders,Juan Carlos Gregg Meza,,Ahuachapan,Ahuachapan,natural,0,0,0,1,0,1,0,1,4,3,1,12,1,1,1,2,2,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+198,1,El Salvador,2017,91.28,SANTA ROSA 2017,95.7,31643.2,"Maruyama Coffee, Toa Coffee, Pon Pon Coffee",J. RAUL RIVERA S.A. DE C.V.,1550.0,CHALATENANGO,SAN IGNACIO,honey,0,0,0,0,0,0,0,0,1,4,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+199,1,El Salvador,2017,91.28,SANTA ROSA 2017,95.5,35750.42,"Maruyama Coffee, Mesh Coffee (Korea), Sarutahiko Coffee, Saza Coffee, Difference Coffee Co (U.K.)",J. RAUL RIVERA S.A. DE C.V.,1550.0,CHALATENANGO,SAN IGNACIO,honey,0,0,0,0,0,0,0,0,1,4,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+200,2,El Salvador,2017,90.0,AUSOL 2017,26.9,10674.73,Meeleviljad OÜ,MARIA ELENA AVILA DE MUYSHONDT,1400.0,SONSONATE,JUAYUA,natural,0,0,0,0,0,1,0,0,3,3,0,3,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+201,2,El Salvador,2017,90.0,AUSOL 2017,22.11,9334.18,June’s Garden Coffee,MARIA ELENA AVILA DE MUYSHONDT,1400.0,SONSONATE,JUAYUA,honey,0,0,0,0,0,0,0,0,1,4,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+202,3,El Salvador,2017,89.96,HAMBURGO / NEJAPA 2017,28.1,21946.1,Caffe’ Pascucci Torrefazione S.P.A.,GLORIA MERCEDES RODRIGUEZ FONTAN,1500.0,AHUACHAPAN,APANECA,washed,0,0,0,0,0,1,0,0,4,4,1,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+203,4,El Salvador,2017,89.67,LAS DELICIAS 2017,16.1,15681.4,Campos Coffee,"CAFINO, S.A. DE C.V.",1700.0,SANTA ANA,SANTA ANA,natural,0,1,0,0,0,1,0,0,0,1,1,6,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+204,5,El Salvador,2017,89.46,EL PORVENIR 2017,12.0,11664.0,ILDIO Inc..,"VALO, S.A. DE C.V.",1600.0,SANTA ANA,METAPAN,natural,1,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+205,6,El Salvador,2017,89.14,BUENA FE 2017,12.1,13794.0,TERAROSA (HAKSAN Co.Ltd),JORGE ALBERTO RECINOS RODRIGUEZ,1800.0,CHALATENANGO,TEJUTLA,honey,0,0,0,0,0,0,0,0,1,2,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+206,7,El Salvador,2017,88.64,EL IZOTE 2017,11.3,11548.6,LATORRE & DUTCH COFFEE and FISHER COFFEE,OSCAR ERNESTO AGUILAR JOVEL,1500.0,CHALATENANGO,LA PALMA,honey,0,0,1,0,0,0,0,0,0,1,0,8,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+207,8,El Salvador,2017,88.42,TOPACIO 2017,11.25,11205.0,"Wataru & Co., Ltd.",MARIA ELENA AVILA DE MUYSHONDT,1500.0,SONSONATE,JUAYUA,honey,0,0,0,0,0,1,0,0,3,2,1,3,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+208,9,El Salvador,2017,88.32,PEÑA REDONDA 2017,11.4,13110.0,M.I. COFFEE CORPORATION,CARLOS MAURICIO LEMUS LANDAVERDE,1450.0,CHALATENANGO,LA PALMA,honey,0,0,0,0,0,1,0,0,2,0,0,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+209,10,El Salvador,2017,88.28,CERRO NEGRO 2017,11.3,19560.3,Kyokuto Fadie Corporation,BLANCA MARINA PERAZA DE PORTILLO,1300.0,CHALATENANGO,LA PALMA,honey,0,1,0,1,0,1,0,1,1,3,1,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+210,11,El Salvador,2017,88.0,LOS PIRINEOS 2017,16.2,14547.6,Saza Coffee,"AGRICAFE, S.A. DE C.V.",1350.0,USULUTAN,BERLIN,washed,0,1,0,1,0,0,0,0,1,2,2,5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+211,12,El Salvador,2017,87.67,LAS PALMAS 2017,15.1,12170.6,Saza Coffee,"AGRICAFE, S.A. DE C.V.",1500.0,USULUTAN,BERLIN,washed,0,1,0,0,0,0,0,0,2,1,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+212,13,El Salvador,2017,87.46,LA ESMERALDA 1 2017,9.6,6048.0,Campos Coffee,OSCAR ROBERTO MURGAS LINARES,1350.0,AHUACHAPAN,AHUACHAPAN,honey,0,0,0,1,1,0,0,0,2,5,1,2,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+213,14,El Salvador,2017,87.4,POSITOS DE SAN IGNACIO 2017,9.45,8797.95,Latorre & Dutch Coffee Traders,IGNACIO GUTIERREZ SOLIS,1400.0,CHALATENANGO,SAN IGNACIO,honey,0,0,0,0,0,0,0,0,0,3,1,4,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+214,15,El Salvador,2017,87.39,LA FINCONA (LA ESPERANZA) 2017,10.72,6228.32,INEARTHCOFFEE,J. RAUL RIVERA S.A. DE C.V.,1200.0,CHALATENANGO,LA PALMA,washed,0,0,0,0,0,1,0,0,2,2,0,2,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+215,16,El Salvador,2017,87.28,DON JAIME 2017,9.85,11780.6,Camel Step Roasters,JAIME RICARDO GUEVARA CHAVEZ,1600.0,CHALATENANGO,SAN IGNACIO,honey,0,0,0,0,0,0,0,0,2,4,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,17,El Salvador,2017,87.25,EL AGUACATE 2017,9.25,8093.75,Latorre & Dutch Coffee Traders,JOSE ANGEL RIVERA REINA,1800.0,CHALATENANGO,LA PALMA,honey,0,0,1,0,0,1,0,0,0,2,2,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+217,18,El Salvador,2017,87.21,GUACHIPILIN 2017,8.85,11212.95,"Wataru & Co., Ltd.",RENATO DIAZ DIAZ,1300.0,CHALATENANGO,LA PALMA,honey,1,1,0,1,0,0,0,1,1,0,0,2,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+218,19,El Salvador,2017,86.92,LAS VENTANAS 2017,8.8,17353.6,Latorre & Dutch Coffee Traders,ELISA BEATRIZ AGUILAR LANDAVERDE,1600.0,CHALATENANGO,LA PALMA,washed,0,0,0,0,0,0,0,1,0,2,2,4,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+219,20,El Salvador,2017,86.78,EL VALLE DEL SOL 2017,7.3,8212.5,"Wataru & Co., Ltd.",JOSE FRANCISCO RECINOS RODRIGUEZ,1750.0,CHALATENANGO,SAN FERNANDO,honey,0,0,0,0,0,0,0,1,1,0,0,3,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+220,21,El Salvador,2017,86.67,LORENA 2017,9.0,6948.0,"Wataru & Co., Ltd.",RENATO ARTURO ROMERO SILVA,1200.0,SANTA ANA,CHALCHUAPA,natural,0,0,0,0,0,0,0,2,3,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+221,22,El Salvador,2017,86.42,LA MONTAÑITA 2017,8.35,17735.4,"Orsir Coffee (Taiwan), Taiwan Roasters Network",ANTONIO RENE AGUILAR LEMUS,1500.0,CHALATENANGO,LA PALMA,washed,1,1,0,1,0,0,0,0,0,2,2,5,2,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+222,23,El Salvador,2017,86.32,MILEYDI 2017,7.1,11658.2,"Wataru & Co., Ltd.",EVER LEONEL DIAZ PEREZ,1250.0,CHALATENANGO,LA PALMA,washed,0,1,0,1,0,0,0,1,2,1,0,1,0,0,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+223,24,El Salvador,2017,86.1,LAS TINIEBLAS 2017,8.65,6842.15,Coffee Me Up (Korea),"PROPIEDADES, S.A. DE C.V.",1350.0,LA LIBERTAD,JAYAQUE,honey,0,0,0,1,0,1,0,0,4,3,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+224,1,El Salvador,2018,91.8,La Cumbre 2018 – Margarita Lucía Díaz de López,55.1,10932.94,"Maruyama Coffee (Japan), Good Boy Bob Coffee (U.S.A), Sarutahiko Coffee (Japan)",Margarita Lucia Diaz De Lopez,,Santa Ana,APANECA-ILAMATEPEC,natural,0,0,1,0,0,1,0,0,0,1,3,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+225,1,El Salvador,2018,91.8,La Cumbre 2018 – Margarita Lucía Díaz de López,55.1,10556.06,HoneyCoffee (Izaki Coffee Co. Ltd),Margarita Lucia Diaz De Lopez,,Santa Ana,APANECA-ILAMATEPEC,natural,0,0,1,0,0,1,0,0,0,1,3,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+226,2,El Salvador,2018,91.6,El Manzano 2018 – Margarita Lucía Díaz de López,37.2,9061.55,Haru International Corporation,Margarita Lucia Diaz De Lopez,,Santa Ana,APANECA-ILAMATEPEC,natural,0,0,0,0,0,1,0,1,1,2,2,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+227,2,El Salvador,2018,91.6,El Manzano 2018 – Margarita Lucía Díaz de López,37.3,7401.07,lowkeycoffee (coffeejumbbang),Margarita Lucia Diaz De Lopez,,Santa Ana,APANECA-ILAMATEPEC,natural,0,0,0,0,0,1,0,1,1,2,2,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+228,3,El Salvador,2018,90.57,Santa Rosa 2018 – J. Raul Rivera S.A. De C.V.,31.8,9808.71,Haru International Corporation,J. Raul Rivera S.A. De C.V.,1600.0,Chalatenango,ALOTEPEC-METAPAN,honey,0,0,0,1,0,0,0,1,1,0,2,3,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+229,3,El Salvador,2018,90.57,Santa Rosa 2018 – J. Raul Rivera S.A. De C.V.,31.8,8413.01,WATARU for ROKUMEI COFFEE CO.,J. Raul Rivera S.A. De C.V.,1600.0,Chalatenango,ALOTEPEC-METAPAN,honey,0,0,0,1,0,0,0,1,1,0,2,3,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+230,4,El Salvador,2018,90.0,Mileydi 2018 – Ever Leonel Diaz Perez,12.82,7631.11,Dongjin Trading,Ever Leonel Diaz Perez,,Chalatenango,ALOTEPEC-METAPAN,washed,1,0,0,0,1,1,0,2,0,0,0,3,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+231,4,El Salvador,2018,90.0,Mileydi 2018 – Ever Leonel Diaz Perez,12.9,7388.6,Ipsento Coffee,Ever Leonel Diaz Perez,,Chalatenango,ALOTEPEC-METAPAN,washed,1,0,0,0,1,1,0,2,0,0,0,3,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+232,5,El Salvador,2018,89.4,"San Jose 1 2018 – Montana Estates, S.A. De C.V.",20.3,11916.1,Campos Coffee,"Montana Estates, S.A. De C.V.",1649.8824000000002,Sonsonate,APANECA-ILAMATEPEC,natural,1,0,0,0,1,0,0,0,1,2,2,3,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+233,6,El Salvador,2018,89.33,"Santa-Rosa-2018 – Agricafe, S.A. De C.V.",15.5,14306.5,"LUSSO(CK CO.) (Korea), Uchida Coffee (Japan), Sugi Coffee Roasting (Japan), Maruyama Coffee (Japan)","Agricafe, S.A. De C.V.",,Usulutan,TECAPA CHINAMECA,honey,0,0,0,1,0,1,0,1,1,1,0,4,0,0,1,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+234,7,El Salvador,2018,89.23,Nueva Granada / Hamburgo 2018 – Roberto Ricardo Huezo Rodriguez,33.4,24048.0,Terarosa (Haksan Co.Ltd),Roberto Huezo/Gloria Rodriguez,1500.0,Ahuachapan,APANECA-ILAMATEPEC,honey,0,0,0,1,0,0,0,1,1,0,0,3,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+235,8,El Salvador,2018,89.03,Topacio 2018 – Maria Elena Avila De Muyshondt,12.11,12739.72,Campos Coffee,Maria Elena Avila De Muyshondt,,Sonsonate,APANECA-ILAMATEPEC,natural,1,0,1,0,0,1,0,1,1,2,1,2,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+236,9,El Salvador,2018,89.0,La Fincona 2018 – J. Raul Rivera S.A. De C.V.,15.4,9163.0,"Wataru & Co., Ltd.",J. Raul Rivera S.A. De C.V.,1100.0,Chalatenango,ALOTEPEC-METAPAN,washed,0,0,0,0,0,1,0,0,0,4,1,4,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+237,10,El Salvador,2018,88.5,El Conrrodal 2018 – Jose Armando Portillo Peraza,8.4,15027.6,M.I. COFFEE CORPORATION,Jose Armando Portillo Peraza,1500.0,Chalatenango,ALOTEPEC-METAPAN,honey,1,0,0,0,0,1,0,0,3,4,1,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+238,11,El Salvador,2018,88.07,Divina Providencia Tablon El Carmen 2018 – Roberto Samuel Ulloa Vilanova,16.2,11728.8,Campos Coffee,Roberto Samuel Ulloa Vilanova,1830.0,Santa Ana,APANECA-ILAMATEPEC,honey,0,0,0,0,0,1,0,2,0,1,0,4,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+239,12,El Salvador,2018,88.03,La Trilla 2018 – Santos Arnulfo Diaz Diaz,8.6,7765.8,"UCC Ueshima Coffee Co., Ltd.",Santos Arnulfo Diaz Diaz,1750.0,Chalatenango,ALOTEPEC-METAPAN,honey,0,0,0,0,0,1,0,0,2,3,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+240,13,El Salvador,2018,88.0,"San Jose 2 2018 – Montana Estates, S.A. De C.V.",7.0,6391.0,Mercanta The Coffee Hunters and Dark Woods Coffee (UK),"Montana Estates, S.A. De C.V.",1649.8824000000002,Sonsonate,APANECA-ILAMATEPEC,washed,0,0,0,0,0,1,0,0,0,0,0,5,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+241,14,El Salvador,2018,87.9,Cayaguanca 2018 – J. Raul Rivera S.A. De C.V.,14.9,5811.0,Brew92 Cafe & Roastery,J. Raul Rivera S.A. De C.V.,1650.0,Chalatenango,ALOTEPEC-METAPAN,natural,0,0,0,0,0,1,0,0,0,0,1,4,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+242,15,El Salvador,2018,87.8,Las Palmas 2018 – Las Palmas,7.5,6847.5,Campos Coffee,"Agricafe, S.A. De C.V.",1550.0,Usulutan,TECAPA CHINAMECA,washed,0,0,0,1,0,1,0,0,0,3,1,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+243,16,El Salvador,2018,87.53,La Montañita 2018 – Antonio Rene Aguilar Lemus,7.1,11842.8,"GSC International Co., Ltd. / Shanghai Borong International Trading Co., Ltd – China",Antonio Rene Aguilar Lemus,,Chalatenango,ALOTEPEC-METAPAN,honey,0,0,0,0,0,0,0,0,1,1,0,5,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+244,17,El Salvador,2018,87.4,El Optimismo 2018 – Lucia Martinez De Zepeda,7.0,11340.0,Some Fusion,Lucia Martinez De Zepeda,1550.0,Usulutan,ALOTEPEC-METAPAN,washed,0,0,0,0,0,1,0,0,0,2,1,5,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+245,18,El Salvador,2018,87.33,"La-Concordia-2018 – Agropecuaria La Concordia, S.A. De C.V.",7.0,22701.0,Kaffebrenneriet As,"Agropecuaria La Concordia, S.A. De C.V.",1600.0,La Libertad,EL BALSAMO-QUEZALTEPEQUE,washed,0,0,0,0,0,0,0,0,2,4,1,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+246,19,El Salvador,2018,87.27,"La Guatuza 2018 – Agricafe, S.A. De C.V.",9.4,8563.4,Terarosa (Haksan Co.Ltd),"Agricafe, S.A. De C.V.",1550.0,Usulutan,TECAPA CHINAMECA,washed,0,0,0,1,0,1,0,0,0,3,0,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,20,El Salvador,2018,87.17,Milagro El Cerro 2018 – Atilio Zepeda Magaña,7.6,5244.0,"Coffee Me Up (Korea), Cupper’s High",Atilio Zepeda Magaña,1650.0,Ahuachapan,APANECA-ILAMATEPEC,honey,0,0,0,0,1,0,0,0,2,1,1,4,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+248,21,El Salvador,2018,87.17,"San Emilio 2018 – Golagri, S.A. De C.V.",13.0,13286.0,Blossom Valley Intl,"Golagri, S.A. De C.V.",1400.0,La Libertad,EL BALSAMO-QUEZALTEPEQUE,washed,0,0,0,0,1,0,0,1,2,2,0,3,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+249,22,El Salvador,2018,87.13,Los Pirineos 2018 – Los Pirineos,7.5,6622.5,"Wataru & Co., Ltd.","Agricafe, S.A. De C.V.",1550.0,Usulutan,TECAPA CHINAMECA,honey,0,1,0,1,0,0,0,1,0,0,2,4,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+250,23,El Salvador,2018,87.07,Buena Fe 2018 – Jorge Alberto Recinos Rodriguez,8.3,6540.4,Kyokuto Fadie Corporation,Jorge Alberto Recinos Rodriguez,1750.0,Chalatenango,ALOTEPEC-METAPAN,honey,0,0,0,0,0,0,0,2,1,3,1,2,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+251,24,El Salvador,2018,86.97,"La Cumbre 2018 – Agricafe, S.A. De C.V.",6.9,5478.6,"Wataru & Co., Ltd.","Agricafe, S.A. De C.V.",1590.0,Usulutan,TECAPA CHINAMECA,washed,0,0,0,0,0,1,0,1,1,2,0,3,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+252,25,El Salvador,2018,86.93,Los Robles 2018 – Hector Manuel Velasquez Guzman,7.1,6865.7,Kyokuto Fadie Corporation,Hector Manuel Velasquez Guzman,1890.0,San Salvador,ALOTEPEC-METAPAN,washed,0,0,0,0,0,1,0,0,2,2,0,3,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+253,26,El Salvador,2018,86.93,Peña Redonda 2018 – Carlos Mauricio Lemus Landaverde,6.9,12075.0,Honu Kato Coffee Inc.,Carlos Mauricio Lemus Landaverde,1500.0,Chalatenango,EL BALSAMO-QUEZALTEPEQUE,honey,0,1,0,0,0,0,0,1,1,1,0,4,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+254,27,El Salvador,2018,86.9,"Las Delicias 2018 – Cafino, S.A. De C.V.",7.0,15505.0,Sulalat Coffee Trading,"Cafino, S.A. De C.V.",1900.0,Santa Ana,APANECA-ILAMATEPEC,natural,0,0,0,1,0,0,0,1,2,1,1,4,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1
+255,28,El Salvador,2018,86.8,Los Tres Potros 2018 – Nora Silvia Cabezas De Mendez,7.71,5273.64,"TRES CABEZAS GmbH Berlin,
+List & Beisler GmbH, Hamburg",Nora Silvia Cabezas De Mendez,,Ahuachapan,APANECA-ILAMATEPEC,natural,0,0,0,0,0,1,0,0,4,3,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+256,29,El Salvador,2018,86.67,Esquipulas 2018 – Fernando Lima Y Compañia,7.0,5866.0,"Wataru & Co., Ltd.",Fernando Lima Y Compañia,1400.0,Santa Ana,APANECA-ILAMATEPEC,washed,0,0,0,0,0,0,0,0,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+257,30,El Salvador,2018,86.47,"La Guachoca 2018 – Exportadora Pacas Martinez, S.A. De C.V.",6.8,6908.8,Honu Kato Coffee Inc.,"Exportadora Pacas Martinez, S.A. De C.V.",1652.0,Santa Ana,APANECA-ILAMATEPEC,natural,0,0,0,0,1,1,0,0,1,2,0,4,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+258,31,El Salvador,2018,86.43,Colombia 2018 – Rafael Gerardo Caceres Chavez,7.4,4314.2,Mokka Specialty Coffee,Rafael Gerardo Caceres Chavez,1800.0,Santa Ana,APANECA-ILAMATEPEC,natural,0,0,0,0,1,0,0,0,2,1,0,3,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+259,32,El Salvador,2018,86.4,"Las Laderas 2018 – Zapotal, Sociedad Anonima De Capital Variable.",6.9,7817.7,"Wataru & Co., Ltd.","Zapotal, Sociedad Anonima De Capital Variable.",1800.0,Santa Ana,APANECA-ILAMATEPEC,washed,0,0,0,0,0,0,0,0,2,0,1,1,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+260,33,El Salvador,2018,86.37,Nazareth 2018 – Mario Ernesto Acosta Oertel,7.0,7574.0,Jubean Coffee,Mario Ernesto Acosta Oertel,1700.0,Ahuachapan,APANECA-ILAMATEPEC,natural,0,0,0,0,1,0,0,0,1,1,0,3,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+261,34,El Salvador,2018,86.37,La Dalia 2018 – Carlos Roberto Jesus De Praga Guillen Chacon,6.9,7038.0,Honu Kato Coffee Inc.,Carlos Roberto Jesus De Praga Guillen Chacon,1400.0,Ahuachapan,APANECA-ILAMATEPEC,natural,0,0,0,0,0,1,0,0,1,2,0,6,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+262,35,El Salvador,2018,86.37,Atzumpa 2018 – Andres Arturo Acosta Rodriguez,6.9,6693.0,"Wataru & Co., Ltd.",Andres Arturo Acosta Rodriguez,1350.0,Ahuachapan,APANECA-ILAMATEPEC,natural,0,0,0,1,0,1,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+263,36,El Salvador,2018,86.33,La Esmeralda 1 2018 – Oscar Roberto Murgas Linares,6.8,6664.0,Honu Kato Coffee Inc.,Oscar Roberto Murgas Linares,1400.0,Ahuachapan,APANECA-ILAMATEPEC,honey,0,0,0,1,0,0,0,0,0,1,2,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+264,37,El Salvador,2018,86.23,Himalaya 2018 – Mauricio Arturo Salaverria Caceres,7.3,10190.8,"Wataru & Co., Ltd.",Mauricio Arturo Salaverria Caceres,1500.0,Ahuachapan,Apaneca,natural,0,0,0,0,0,0,0,0,2,2,0,2,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+265,38,El Salvador,2018,86.1,San Carlos Ii/El Coro 2018 – Asociacion Cooperativa De Produccion Agropecuaria San Carlos Dos De R.L.,7.2,4881.6,Nippon Coffee Trading,Asociacion Cooperativa De Produccion Agropecuaria San Carlos Dos De R.L.,1600.0,Morazan,APANECA-ILAMATEPEC,honey,0,0,0,0,0,1,0,0,0,2,0,5,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+266,1,El Salvador,2019,90.57,SANTA ROSA,63.1,21560.64,"Maruyama Coffee, Sarutahiko Coffee, itoya coffee, Mesh Coffee",J. RAUL RIVERA S.A. DE C.V.,,,ALOTEPEC-METAPAN,honey,1,0,1,0,1,1,0,0,1,0,1,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+267,1,El Salvador,2019,90.57,SANTA ROSA,64.0,16931.2,Wataru for ROKUMEI COFFEE CO.,J. RAUL RIVERA S.A. DE C.V.,,,ALOTEPEC-METAPAN,honey,1,0,1,0,1,1,0,0,1,0,1,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+268,2,El Salvador,2019,90.37,LOS PIRINEOS,26.3,18919.96,Saza Coffee,AGRICAFE S.A. DE C.V.,,,TECAPA CHINAMECA,washed,0,0,0,0,0,1,0,0,3,2,2,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+269,2,El Salvador,2019,90.37,LOS PIRINEOS,27.1,16131.28,HoneyCoffee (Izaki Coffee Co. Ltd),AGRICAFE S.A. DE C.V.,,,TECAPA CHINAMECA,washed,0,0,0,0,0,1,0,0,3,2,2,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+270,3,El Salvador,2019,89.93,LA ESPERANZA,39.5,34436.1,Fisher Coffee / Latorre & Dutch Coffee,INVERSIONES SANTONANO S.A. DE C.V.,1750.0,,APANECA-ILAMATEPEC,honey,0,0,1,0,0,1,0,0,2,2,3,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,4,El Salvador,2019,89.93,EL CIPRESAL,12.1,10451.98,"namusairo coffee, lowkey coffee, vincent van coffee, el cafe coffee roasters",GONZALO ANTONIO TICAS REYES,,,ALOTEPEC-METAPAN,washed,0,1,0,1,0,1,0,1,1,3,0,5,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+272,5,El Salvador,2019,89.29,DON OCTAVIO,15.3,12095.11,"UCC Ueshima Coffee Co., Ltd.",JOSE OCTAVIO UMAA VALDIVIESO,,,ALOTEPEC-METAPAN,honey,0,1,0,0,1,1,0,1,5,2,0,6,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+273,6,El Salvador,2019,89.07,SAN RAFAEL 1,19.8,14563.49,Sulalat Coffee Trading,ROBERTO SAMUEL ULLOA VILANOVA,,,APANECA-ILAMATEPEC,natural,1,0,1,0,1,1,0,0,1,0,1,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+274,7,El Salvador,2019,88.94,PEÑA REDONDA,13.2,17671.76,Camel Step Roasters,CARLOS MAURICIO LEMUS LANDAVERDE,,,ALOTEPEC-METAPAN,natural,0,0,0,0,0,1,0,0,3,2,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+275,8,El Salvador,2019,88.78,LAS DELICIAS,12.2,12274.18,Camel Step Roasters,CAFINO S.A. DE C.V.,1900.0,,APANECA-ILAMATEPEC,natural,0,0,0,1,0,1,0,1,5,2,0,4,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+276,9,El Salvador,2019,88.59,LAS PALMAS,10.1,16365.33,Solberg & Hansen As,AGRICAFE S.A. DE C.V.,,"Cantón San José, Berlín, Usulután",TECAPA CHINAMECA,honey,0,0,0,0,0,1,0,0,1,0,0,7,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+277,10,El Salvador,2019,88.04,EL ANONO,8.1,17580.56,"THE DRIP CO., LTD.",SANDRA BEATRIZ LEMUS DE AVELAR,,,ALOTEPEC-METAPAN,honey,0,1,1,0,0,0,0,0,3,3,2,9,2,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+278,11,El Salvador,2019,88.01,LAS BRUMAS,10.0,7605.3,"Orsir Coffee Co., Ltd.",JUAN JOSE ERNESTO MENENDEZ ARGUELLO,,,APANECA-ILAMATEPEC,washed,0,0,1,1,0,1,0,0,3,2,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,12,El Salvador,2019,87.96,LA BONITA,9.8,13286.55,Kyokuto Fadie Corporation,NORELVIA ANGELICA ELIAS DE DIAZ,,,ALOTEPEC-METAPAN,washed,0,0,0,1,0,0,0,0,3,5,1,12,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+280,13,El Salvador,2019,87.93,MILEYDI,9.75,16002.97,"Campos Coffee &
+
+
+
+Willoughbys Coffee & Tea",EVER LEONEL DIAZ PEREZ,,,ALOTEPEC-METAPAN,washed,0,0,1,1,0,0,0,0,3,3,2,7,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+281,14,El Salvador,2019,87.81,LA BENDICION 2,10.0,8336.6,London Dairy Cafe,ROBERTO SAMUEL ULLOA RUSCONI,,,APANECA-ILAMATEPEC,others_process,0,0,0,1,0,0,0,1,2,4,0,7,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,19,El Salvador,2019,87.37,HIMALAYA,10.1,11386.34,Rehm & Co. / Benecke Coffee GmbH & Co.,MAURICIO ARTURO SALAVERRIA CACERES,1500.0,,APANECA-ILAMATEPEC,natural,0,0,0,1,0,0,0,1,0,4,1,8,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+288,21,El Salvador,2019,87.29,LAS VENTANAS,8.2,16794.91,"Wataru & Co., Ltd",ELISA BEATRIZ AGUILAR LANDAVERDE,1600.0,,ALOTEPEC-METAPAN,honey,1,1,0,0,0,0,0,0,6,5,3,12,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+289,22,El Salvador,2019,87.21,LOS PINOS,8.1,15397.13,Honu Kato Coffee Inc.,NANCY MARIA LEMUS DE MORALES,,,ALOTEPEC-METAPAN,honey,0,1,0,1,0,0,0,1,2,2,0,7,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+290,23,El Salvador,2019,87.18,SAN PABLO,9.9,6041.48,Ecom Japan Limited,ZAPOTAL SOCIEDAD ANONIMA DE CAPITAL VARIABLE,1850.0,,APANECA-ILAMATEPEC,washed,0,1,1,0,0,0,0,0,1,3,2,8,2,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+291,24,El Salvador,2019,87.15,LAS DUANAS,26.2,15329.88,Kafema,J. RAUL RIVERA S.A. DE C.V.,,,ALOTEPEC-METAPAN,anaerobic,0,0,1,0,0,0,0,2,5,3,0,13,1,2,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
