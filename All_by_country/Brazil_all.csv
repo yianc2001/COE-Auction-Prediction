@@ -1,0 +1,179 @@
+Unnamed: 0,Rank,COE_score,Farm,weight_(lbs.),High_bid,Total_value,Company,Farmer/Rep.,Altitude,Country,Year,City,Region,Coffee_characteristics,Flavor,Acidity,Process,Variety,Coffee Growing Area,Farm_size,country
+0,1a,92.23,Fazenda Paie Filho,396.84,$60.10/lb,"$23,850.08","Maruyama Coffee, Goodboybob Coffee, Harrods",André Luis Aguila Ribeiro,1060 m.a.s.l.,Brazil,2019,"Ibiraci, MG",Sul de Minas,"passion fruit, white nectarine, watermelon, guava, honey, pineapple, tropical, black currant, molasses, dark fruit positive, sweet, cinnamon, anise, black licorice, brown sugar","refined, bright, citric, vibrant, multi-dimensional, expansive, improved on cool","creamy, well balanced, composed, elegant",Natural,Yellow Catuaí,10 ha,10 ha,Brazil
+1,1b,92.23,Fazenda Paie Filho,396.84,$50.80/lb,"$20,159.47",TAKAMURA COFFEE ROASTERS,André Luis Aguila Ribeiro,1060 m.a.s.l.,Brazil,2019,"Ibiraci, MG",Sul de Minas,"passion fruit, white nectarine, watermelon, guava, honey, pineapple, tropical, black currant, molasses, dark fruit positive, sweet, cinnamon, anise, black licorice, brown sugar","refined, bright, citric, vibrant, multi-dimensional, expansive, improved on cool","creamy, well balanced, composed, elegant",Natural,Yellow Catuaí,10 ha,10 ha,Brazil
+2,2a,92.15,Fazenda Primavera,330.7,$30.50/lb,"$10,086.35","
+SAZA COFFEE, Maruyama Coffee, and PROUD MARY COFFEE
+",Leonardo Montesanto Tavares,1000 m.a.s.l.,Brazil,2019,"Angelândia, MG",Chapada de Minas,"floral, peach, spicy, strawberries, papaya, ginger, jasmine, orange, yogurt, black tea, blueberries, papaya, mango, guava","bright and lively and complex, sweet lime, green tea, heavy and dense, sparkling","nectar, exotic, silky mouthfeel, everlasting, sweet, honey sweet, very consistent",,Gesha,1027 ha,401 ha,Brazil
+3,2b,92.15,Fazenda Primavera,330.7,$25.10/lb,"$8,300.57","Time’s Club,  Coffee Libre, Proud Mary, Coffee Me Up",Leonardo Montesanto Tavares,1000 m.a.s.l.,Brazil,2019,"Angelândia, MG",Chapada de Minas,"floral, peach, spicy, strawberries, papaya, ginger, jasmine, orange, yogurt, black tea, blueberries, papaya, mango, guava","bright and lively and complex, sweet lime, green tea, heavy and dense, sparkling","nectar, exotic, silky mouthfeel, everlasting, sweet, honey sweet, very consistent",,Gesha,1027 ha,401 ha,Brazil
+4,3a,91.84,Sítio São Sebastião,396.84,$12.90/lb,"$5,119.24",Wataru for Nozy Coffee,Merce Jordan Araújo Silva,1323 m.a.s.l.,Brazil,2019,"Piatã, BA",Chapada Diamantina,"black tea, caramel, chocolate, floral, honey, sweet milk, sugar cane, jasmine, orange marmalade, honey, spices, jammy, dulce de leche, intense, peach, rhubarb jam, apricot","pleasant, crisp, citric, juicy, complex, sweet lemon","very balanced, transparent",Pulped Natural,Red Catuaí,2 ha,1 ha,Brazil
+5,3b,91.84,Sítio São Sebastião,396.84,$13.00/lb,"$5,158.92",Kyokuto Fadie Corporation,Merce Jordan Araújo Silva,1323 m.a.s.l.,Brazil,2019,"Piatã, BA",Chapada Diamantina,"black tea, caramel, chocolate, floral, honey, sweet milk, sugar cane, jasmine, orange marmalade, honey, spices, jammy, dulce de leche, intense, peach, rhubarb jam, apricot","pleasant, crisp, citric, juicy, complex, sweet lemon","very balanced, transparent",Pulped Natural,Red Catuaí,2 ha,1 ha,Brazil
+6,4,90.61,Santuário Sul,661.4,$20.30/lb,"$13,426.42","Maruyama Coffee, SAZA COFFEE, Orsir Coffee(Taiwan)",Santuário Sul,1200 m.a.s.l.,Brazil,2019,"Carmo de Minas, MG",Mantiqueira de Minas,"rum, jasmine, strawberry, orange, rich sweet spiced, red wine, perfumed, complex, elegant, pomegranate, rarified","bright, lively","creamy, peach, exotic, elegant, balanced, honey, amber, aged rum, spiced",Natural,Gesha,150 ha,90 ha,Brazil
+7,5,90.47,Fazenda Jaguara,793.68,$15.30/lb,"$12,143.30","
+
+Coffee Montage, 304 coffee roasters, Coffee Place, EL CAFE COFFEE ROASTERS, FEBRUARY ROASTERS, Jeju Be Brave
+
+",André Luiz Alvarenga Garcia,1000 m.a.s.l.,Brazil,2019,"São João del Rei, MG",Campo das Vertentes,"jackfruit, mango, winelike, grape, cherry, strawberry, tropical fruit, fig and prune, fresh raisin, passion fruit, cocoa nib, jaboticaba, blackberry"," intense, tartaric, malic, lively","silky, syrupy, long lasting, caraway seed",,Yellow Catuaí,150 ha,120 ha,Brazil
+8,6,89.7,Sítio d’Água Limpa,661.4,$10.51/lb,"$6,951.31",Time’s Club & PROUD MARY COFFEE,Marianna Carneiro de Carvalho Junqueira,1255 m.a.s.l.,Brazil,2019,"Virgínia, MG",Sul de Minas,"white wine, strawberry, peach, apple, melon, floral, cherry, honey","delicate, sparkling, consistent"," silky body, smooth, juicy, transparent and clean, delicate and perfumed wine, honey sweet",Natural,Red Catucaí,15 ha,6 ha,Brazil
+9,7,89.58,Fazenda Gerais,1322.8,$8.40/lb,"$11,111.52",Terarosa (Haksan Co. Ltd),João Roberto Santana,1339 m.a.s.l.,Brazil,2019,"Piatã, BA",Chapada Diamantina,"sweet spice, coffee flower, floral, vanilla, honey, clean, green apple tangerine, brown sugar, grapefruit","citric, spiced, bright, pleasant","well balanced, well composed, honeydew melon, milk chocolate",Pulped Natural,Catuaí 144,27 ha,2 ha,Brazil
+10,8,88.88,Sítio Portella,793.68,$8.50/lb,"$6,746.28","Wataru & Co., Ltd.",Edir José de Carvalho,1250 m.a.s.l.,Brazil,2019,"Caldas, MG",Sul de Minas,"chocolate, creamy, vanilla, floral, honey, sweet lemon, green apple, melon","lively, malic, citric and refined","brown sugar, creamt, well balanced, improved on cool, sugar sweet",Natural,,3.6 ha,3 ha,Brazil
+11,9,88.8,Fazenda Santo Antônio,793.68,$7.10/lb,"$5,635.13","
+
+cafe DAZAC, Eungubiro Roasters, Crema Costa
+
+",Raimundo Dimas Santana Filho,1190 m.a.s.l.,Brazil,2019,"Araponga, MG",Matas de Minas,"milk chocolate, elegant, dried blackberry, dried strawberries, floral, sweet lemon, sweet orange, syrupy and dense","sweet, lively, citric, lemon, crisp","transparent, very consistent",Pulped Natural,Yellow Bourbon,360 ha,44 ha,Brazil
+12,10,88.61,Fazenda Aterradinho,793.68,$8.10/lb,"$6,428.81",Dabov Specialty Coffee & Ascension Coffee Roasters,Lilian Carrijo,1060 m.a.s.l.,Brazil,2019,"Ibiraci, MG",Sul de Minas,"sugar cane, molasses, orange, cocoa, sweet chocolate, caramel","lactic, fruit cake, silky","smooth, well balanced, savory, rosemary, consistent, well structured",Natural,Catucaí 2SL,30 ha,30 ha,Brazil
+13,11,88.5,Fazenda Volta da Serra,925.96,$8.90/lb,"$8,241.04",BEANBROTHERS,Agnaldo Martins de Assunção,1337 m.a.s.l.,Brazil,2019,"Piatã, BA",Chapada Diamantina,"floral, vanilla, cocoa, caramel, jasmine tea, buttery, roasted nut","citric, bright, elegant","molasses in the finish, balanced, lemon",Pulped Natural,Red Catuaí,7 ha,1 ha,Brazil
+14,12,88.46,Ecoagrícola Café Ltda,793.68,$16.00/lb,"$12,698.88",Sarutahiko Coffee Inc.,Ecoagrícola Café Ltda,1100 m.a.s.l.,Brazil,2019,"Francisco Dumont, MG",Chapada de Minas,"strawberry, mango, papaya, cherries, red wine, raspberry","tartaric, lively, wine like, very complex","very balanced, smooth",Natural,Catucaí 2SL,1795 ha,340 ha,Brazil
+15,13,88.36,Sítio Lagoa II,727.54,$7.00/lb,"$5,092.78","Wataru & Co., Ltd.",José Wanderley Viana,1395 m.a.s.l.,Brazil,2019,"Pedralva, MG",Mantiqueira de Minas,"milk chocolate, apple, caramel, blackcurrant, vanilla, brownie, molasses","sweet, lively, juicy","silky, transparent, sugar cane sweet, spicy, delicate",Natural,,5 ha,5 ha,Brazil
+16,14,88.29,Sítio dos Colis,727.54,$7.00/lb,"$5,092.78","Wataru & Co., Ltd.",Adila Pereira Coli,1175 m.a.s.l.,Brazil,2019,"Carmo de Minas, MG",Mantiqueira de Minas,"passion fruit, brown, sugar, consistent, sweet orange, peach, creamy, melon","crisp, sparkling","plum, silky viscosity, rounded, caramel sweet",Pulped Natural,Yellow Bourbon,3 ha,3 ha,Brazil
+17,15,88.14,Fazenda Mantissa,727.54,$9.10/lb,"$6,620.61",Mercanta Ltd,Mauro Billi,1150 m.a.s.l.,Brazil,2019,"Campestre, MG",Sul de Minas,"plum, caramel, brown sugar, molasses, orange, tamarind and raisin, nutmeg","crisp, citric, lemon citrus, floral","very sweet, cinnamon, silky, balanced",Natural,Yellow Bourbon,156.2 ha,82.8 ha,Brazil
+18,16,88.04,Fazenda Sertãozinho,925.96,$10.60/lb,"$9,815.18",Ecom Japan Limited,Fazenda Sertãozinho,1275 m.a.s.l.,Brazil,2019,"Botelhos, MG",Sul de Minas,"caramel, dark chocolate, mango, guava, apricot, green apple, passion fruit","citiric, tartaric, crisp","silky, cocoa nib, caraway seed",Natural,Arara,2197.96  ha, 624.14  ha,Brazil
+19,17,88.02,Fazenda Paraíso,793.68,$11.90/lb,"$9,444.79",TAKAMURA COFFEE ROASTERS,Jorge Barakat,1000 m.a.s.l.,Brazil,2019,"João Pinheiro, MG",Cerrado Mineiro,"passion fruit, lime, lemon raisin ice cream, rum, grape, tropical, fruit, lychee, pumpkin note","complex, tartaric, intense, milky, lactic","cinnamon, dark chocolate, cherry",Pulped Natural,Catuaí 144,750 ha,617 ha,Brazil
+20,18,87.8,Fazenda Dona Neném,793.68,$8.40/lb,"$6,666.91",Kaffebrenneriet As,Eduardo Pinheiro Campos,1080 m.a.s.l.,Brazil,2019,"Presidente Olegário, MG",Cerrado Mineiro,"winey, rum, cranberry, mango, cherry,cocoa, cinnamon, blueberry, black tea","winey, complex, bright and citric, refined"," buttery, round finish, clean, creamy",Natural,Yellow Bourbon,430 ha,166 ha,Brazil
+21,19,87.69,Fazenda Zaroca,1058.24,$9.00/lb,"$9,524.16","Wataru & Co., Ltd.",Gilberto Augusto Cainelli Basilio,1100 m.a.s.l.,Brazil,2019,"Três Pontas, MG",Sul de Minas,"balanced, clean, hazelnut, smooth, roasted nut","orange, floral, peach, caramel, green apple, delicate mouthfeel",malic,Natural,Yellow Bourbon,265 ha,145 ha,Brazil
+22,20,87.68,Fazenda Fortaleza,793.68,$10.10/lb,"$8,016.17","TOA COFFEE Co.,Ltd.",Alessandro Alves Hervaz,1500 m.a.s.l.,Brazil,2019,"São Goncaço do Sapucaí, MG",Mantiqueira de Minas,"green apple, dark chocolate, white peach, sugar cane, passion fruit, vanilla","citric, bright, balanced","smooth mouthfeel, delicate and complex, rounded",Natural,Yellow Bourbon,5 ha,5 ha,Brazil
+23,21,87.68,Fazenda Camocim,793.68,$8.00/lb,"$6,349.44",Kyokuto Fadie Corporation,Henrique Leivas Sloper de Araújo,980 m.a.s.l.,Brazil,2019,"Domingos Martins, ES",Montanhas do Espírito Santo,"honey, jasmine, floral, dark chocolate, orange, vanilla, plum"," lively, citric, bright","sugar cane, dense mouthfeel, long finish, complex, smooth",Pulped Natural,Catucaí Açu-Iapar 59,160 ha,45 ha,Brazil
+24,22,87.54,Sítio Santa Terezinha,992.1,$7.70/lb,"$7,639.17",Honu Kato Coffee Inc.,Edson Rosa Garcia,1115 m.a.s.l.,Brazil,2019,"Carmo de Minas, MG",Mantiqueira de Minas,"chocolate, sweet, fruity, almond, brown sugar, apricot, peach","citric, sparkling, bright","oolong tea, cereamy, syrupy, red wine, lime and honey, sweet lime",Natural,Acaiá,6 ha,4 ha,Brazil
+25,23,87.52,Fazenda Barreiro,793.68,$7.10/lb,"$5,635.13","Wataru & Co., Ltd.",Francisco Otávio Lotufo,1100 m.a.s.l.,Brazil,2019,"Poços de Caldas, MG",Sul de Minas,"floral, jasmine, bright orange, sugar cane, raspberry, red apple, tamarind and dark chocolate","sharp and clean, citric","juicy, tea like, balanced",Pulped Natural,Yellow Bourbon,665 ha,146.95 ha,Brazil
+26,24,87.48,Sítio Fortaleza,727.54,$8.00/lb,"$5,820.32",cosmetocafe,Júlio Cesar Ferreira,1020 m.a.s.l.,Brazil,2019,"São Gonçalo do Sapucaí, MG",Mantiqueira de Minas,"melon, mango, cinnamon, sugar cane, jasmine","sparkling, effervescent, lactic, winey, plum"," jammy, creamy, complex, blueberry",Natural,Yellow Bourbon,6 ha,6 ha,Brazil
+27,25,87.43,Sítio dos Estouros,793.68,$7.10/lb,"$5,635.13","Wataru & Co., Ltd.",José Mauro Miranda,1200 m.a.s.l.,Brazil,2019,"Araponga, MG",Matas de Minas,"chocolate, almond, cherry, passionfruit, peach, tangerine, honey","citric, lemon, honey, crisp, tartaric, mandarin orange","brown sugar, bright, dense",Pulped Natural,Catuaí 44,15 ha,10 ha,Brazil
+28,26,87.34,Fazenda Santa Mônica,793.68,$8.70/lb,"$6,905.02","
+
+Mercanta The Coffee Hunters, Alchemist Singapore, Artisan Roast Scotland, Dark Woods Coffee England, Micro Coffee Roasters China
+
+",Jean Vilhena Faleiros,1200 m.a.s.l.,Brazil,2019,"Cássia, MG",Sul de Minas,"caramel, honey, milk chocolate, apricot, chocolate, plum, cherry, ripe tropical fruit","citric, refined, vibrant","creamy body, brown sugar, sweet",Natural,Yellow Bourbon,83 ha,50 ha,Brazil
+29,27,87.16,Nascentes da Grama,793.68,$7.00/lb,"$5,555.76","Wataru & Co., Ltd.",Clayton Mapelli Cerri,1150 m.a.s.l.,Brazil,2019,"São Sebastião da Grama, SP",Média Mogiana,"red apple, brown sugar, caramel, nougat",lime citrus,"passion fruit, butterscotch, burgundy wine, grape, balanced, clean",Natural,Obatã,15.7 ha,5.5 ha,Brazil
+30,1a,90.5,Dbarbosa Coffee – Fazenda Cachoeira,396.83,$66.00,"$26,190.78","회현카페 , 커피플랜트 (Coffeeplant)",Vitor Marcelo De Queiroz Barbosa,1100,Brazil,2021,,,"Juicy, Milk Chocolate, Smooth, Syrupy, Tropical Fruit","Cacao Nibs, Strawberry, Apple, Blueberry, Bon cherry, Brown Spice, Cabernet Sauvignon, Cinnamon, Concord Grape, Dark Rum, Dried Mango, Fermenty but balanced, Fruit Compote, Jasmine, lime zest, Mandarin Orange, Pineapple, Plum, Purple grape, Vanilla, White Grape, White peach, White wine","Malic Acid, Tartaric, Acetic Acid, Malic, Nectarine",Natural,Yellow Catuaí,,450.0,Brazil
+31,1b,90.5,Dbarbosa Coffee – Fazenda Cachoeira,396.83,$61.00,"$24,206.63",Brulerie du Quai & Orsir Coffee,Vitor Marcelo De Queiroz Barbosa,1100,Brazil,2021,,,"Juicy, Milk Chocolate, Smooth, Syrupy, Tropical Fruit","Cacao Nibs, Strawberry, Apple, Blueberry, Bon cherry, Brown Spice, Cabernet Sauvignon, Cinnamon, Concord Grape, Dark Rum, Dried Mango, Fermenty but balanced, Fruit Compote, Jasmine, lime zest, Mandarin Orange, Pineapple, Plum, Purple grape, Vanilla, White Grape, White peach, White wine","Malic Acid, Tartaric, Acetic Acid, Malic, Nectarine",Natural,Yellow Catuaí,,450.0,Brazil
+32,2a,90.14,Fazenda Do I.P.,396.83,$25.10,"$9,960.43","
+
+Japan Roasters’ Network
+
+",Luiz Paulo Dias Pereira E Outros,1100,Brazil,2021,,,Juicy,"Chocolate, Plum, Strawberry, Apple, Bakers Chocolate, Black Cherry, Blackberry, Blueberry, Cacao Nibs, Dark rum, Dried Fig, Grape, Lime, Mango, Muscovado Sugar, Peach, Prune, Raisin, Raspberry, Riped red grape, Rum, Sweet spice, Tropical Fruit, Vanilla","Citric Acid, Malic Acid, Complex, Dimentional, Effervescent, Tartaric",Natural,Yellow Bourbon,,405.0,Brazil
+33,2b,90.14,Fazenda Do I.P.,396.83,$25.10,"$9,960.43","회현카페 , 커피플랜트 (Coffeeplant)",Luiz Paulo Dias Pereira E Outros,1100,Brazil,2021,,,Juicy,"Chocolate, Plum, Strawberry, Apple, Bakers Chocolate, Black Cherry, Blackberry, Blueberry, Cacao Nibs, Dark rum, Dried Fig, Grape, Lime, Mango, Muscovado Sugar, Peach, Prune, Raisin, Raspberry, Riped red grape, Rum, Sweet spice, Tropical Fruit, Vanilla","Citric Acid, Malic Acid, Complex, Dimentional, Effervescent, Tartaric",Natural,Yellow Bourbon,,405.0,Brazil
+34,3,89.43,Sítio São Pedro,694.46,$42.40,"$29,445.10","
+
+Orsir Coffee Co., Ltd.
+
+",Pedro Brás,1340,Brazil,2021,,,"Rhubarb, Smooth texture, Strawberry","Grape, Jasmine, White Grape, Black Currant, Black Pepper, Brown Sugar, Candy, Caramel, Floral, Graham Cracker, Grapefruit, Lime, Litchi, Macadamia Nnut, Orange, Plum, Stewed fruit, Vanilla, Yam","Malic Acid, Complex, Neutral, Soft, Sweet, Tartaric acid",Natural,Gesha,,51.0,Brazil
+35,4,89.18,Fazenda Ressaca,793.67,$13.50,"$10,714.55","
+
+Terarosa (Haksan Co. Ltd)
+
+",Wedson Marques De Souza,1245,Brazil,2021,,,"Caramel, Coating, creamy, Milk Chocolate, Polished, Sweet","Orange, Lime, Maple Syrup, Sweet, Apple, Blackberry, Brown Spice,  Complex, Dried Dates, Honeycomb, Jasmine, Juicy, Malty, Mirabelle Plum, Molasses, Peach, Pennel, Prune, Tropical Fruit, Vanilla","Malic Acid, Bright, Citric, Complex, Simple",Pulped Natural,Catuaí,,13.0,Brazil
+36,5,89.11,Fazenda Sáo Benedito,1554.26,$9.20,"$14,299.19",NOZY COFFEE,Antonio Jose Junqueira Villela,1150,Brazil,2021,,,"Cherry, Coating, creamy, Floral, Milk Chocolate, Nutty","Lime, Anise, Apple, Apricot, Black Tea, Caramel, Clean, Cranberry, Grape, Hibiscus, Jack fruit, Juicy, Nutty, Orange, Papaya, Peach, Pear, Pineapple, Sweet, White Grape, Winey","Complex, Acetic Acid, Bright, Dimentional, Malic, Tartaric acid",Pulped Natural,Yellow Bourbon,,174.0,Brazil
+37,6,89.07,Chácara Vista Alegre,694.46,$12.25,"$8,507.14",WAVY COFFEE ROASTERS,José Renato Rodrigues Alves,1269,Brazil,2021,,,"Balanced, Honeydew, Juicy","Tropical Fruit, Apricot, Brown Sugar, Caramel, Clean, Floral, Forest fruits, Grape, Guava, Kiwi, Lime, Mandarin, Orange, Nut, Plum, Pomegranate, Prune, Raisin, Raw Sugar, Sweet, Yellow fruit","Bergamot, Bright, citric, Complex, Intense, Structured acidity, Sweet",Natural,Catuaí,,16.5,Brazil
+38,7,88.93,Fazenda Serra Do Boné,1289.71,$9.70,"$12,510.19","
+
+Ecom Japan Limited
+
+",Matheus Lopes Sanglard,1250,Brazil,2021,,,Sticky,"Peach, Apple, Apricot, Balanced, Blood Orange, Brown Sugar, Butter, Caramel, Citric Acid, Cream, Floral, Honey, Japanese Pear, Juicy, Lemongrass, Nougat, Panela, Pineapple, Red Apple, Roasted Hazelnut, Sweet, White peach","Malic Acid, Bright, Sweet",Pulped Natural,Red Catucaí,,150.0,Brazil
+39,8,88.89,Fazenda Santo Antônio,694.46,$8.60,"$5,972.36","
+
+Wataru & Co., Ltd.
+
+",Ricardo Vagne Ignotti,1180,Brazil,2021,,,"Sundried Tomato, Sweet Bread Pastry","Apple, Brown Spice, Brown Sugar, Cinnamon, Almond, Black Cherry, Black Currant, Blackberry, Cane Sugar, Chocolate, Figs, Green Grape, Floral, Honey, Juicy, Juniper, Lemon, Lime, Maple Syrup, Pine nut, Raspberry, Sage","Citric Acid, Stone Fruit",Natural,Catuaí 99,,25.0,Brazil
+40,9,88.68,Sitio Jardim Das Oliveiras,727.53,$9.10,"$6,620.52","
+
+Nagahama Coffee Inc.
+
+",Simone A Dias Sampaio Silva,1159,Brazil,2021,,,"Black Tea, Consistance","Honey, Apple, Black Tea, Caramel, Citrus, Dried Dates, Floral, Jasmine, Juicy, Lacks Body, Lemon & Lime, Litchi, Mirabelle plum, Orange Blossom, Peach, Pear, Pineapple, Sweet, Tangerine, White Grape, White peach","Tartaric, Bright, Citric Acid, Dimentional, Malic Acid, Mild, Structural",Pulped Natural,"Catiguá MG1, MG2 & MG3",,41.6,Brazil
+41,10,88.68,Sítio Batista,1223.57,$9.10,"$11,134.49",Campos Coffee,José Danilo Braga,1080,Brazil,2021,,,"Consistance, Hazelnut, Honey, Juicy, Very transparent","Floral, Apple, Banana, Black Currant, Caramelized, Chocolate, Citrus, Complex, Delicate, Green Apple, Honey, Juicy, Mandarin Orange, Matzo cracker, Mirabelle plum, Passion Fruit, Plum, Raspberry, Sweet","Bright, Citric Acid, Apple, Crisp, Delicate, Malic Acid",Natural,Red Catuaí,,4.11,Brazil
+42,11,88.17,Fazenda Santa Alina,694.46,$12.25,"$8,507.14","
+
+Nossa Familia Coffee
+
+",Lucia Maria Da Silva Dias,1250,Brazil,2021,,,"Body/Fullness, Cream, Long sweet aftertaste, Mango, Round, Soft, Tropical Fruit","Plum, Dark Chocolate, Chocolate, Banana Peel, Black Currant, Brown Spice, Burnt Sugar, Cacao, Cherry, Cocoa, Cola, Cranberry, Dried Fig, Green pea, Green Tea, Muscat, Nougat, Orange, Papaya, Pear, Pech, Raspberry, Strawberry","Acetic Acid, Citric Acid, Lime, Malic, Tartaric acid",Natural,Yellow Bourbon,,980.0,Brazil
+43,12,88.17,Fazenda Catanduva II,793.67,$15.10,"$11,984.42",TAKAMURA COFFEE ROASTERS,Marie Nakao Sasaki,1025,Brazil,2021,,,"Consistence, Dimentional","Raspberry, Cacao, Apricot, Chocolate, Berry, Black Currant, Candy, Chocolate, Cinnamon, Cocoa, Concord Grape, Dried Dates, Funk, Grape, Kombucha, Lime, Molasses, Overripe/Near fermented, Plum, Strawberry, Sweet & Sugary","Acetic Acid, Berry, Citric Acid, Sweet, Tartaric acid",Pulped Natural,Yellow Catuaí,,269.24,Brazil
+44,13,88.13,Sítio Matinha,694.46,$10.00,"$6,944.60",Mercanta Ltd & Times Club Japan,Edson Junior De Miranda,1250,Brazil,2021,,,"Beefy, Juicy, Thin","Cherry, Orange, Orange Blossom, Apple, Cocoa, Golden Raisin, Honey, Lemonade, Mandarin Orange, Mellow, Panela, Peach, Red Apple, Stone Fruit, Strawberry, Sweet, Vanillin","Malic Acid, Bright, Vibrant",Pulped Natural,Yellow Catuaí,,20.0,Brazil
+45,14,88.1,Sítio Monte Alegre,760.6,$8.60,"$6,541.16","
+
+DABOV Specialty Coffee
+
+",Glycia Emerenciana Pereira Carneiro E Outros,1150,Brazil,2021,,,"Caramel, Floral, Lively, Peach, Sticky","Apple, Berry, Plum, Black Cherry, Brown Sugar, Cacao Nibs, Cherry, Coconut, Dark Chocolate, Liquorice, Nutty, Raisin, Red Currant, Red Grape, Strawberry","Malic Acid, Citric Acid, Fruit acid, Tartaric acid",Pulped Natural,Yellow Bourbon,,16.0,Brazil
+46,15,88.1,Fazenda Recreio,694.46,$26.00,"$18,055.96","
+
+KALDI COFFEE FARM
+
+",Homero Teixeira De Macedo Junior,1250,Brazil,2021,,,"Soft, Strawberry","Jasmine, Brown Spice, Roasted Hazelnut, Bakers Chocolate, Brown Sugar, Caramel, Dark Chocolate, Dried mango, Hibiscus, Lime, Lychee, Melon, Milk Chocolate, Muscat, Nougat, Nutty, Pear, Perfume, White peach","Complex, Citric Acid, Citrus, Lively",Natural,Gesha,,596.0,Brazil
+47,16,87.87,Vista Brigadeiro,694.46,$11.00,"$7,639.06",NOZY COFFEE,Waldemar Ferreira De Paula,1530,Brazil,2021,,,"Cream, Milky, Soft, Sweet Bread Pastry, Tranceparent","Dried Fig, Raspberry, Almond, Black Cherry, Black Currant, Bright, Caramel, Cherry, Crisp, Dark Chocolate, Floral, Green pea, Honeycomb, Lacks sweetness, Litchi, Orange, Pear, Prune, Raisin, Rose","Citrus, Lemon, Maple Syrup",Fully Washed,Yellow Catuaí 785,,30.0,Brazil
+48,17,87.87,Fazenda Cerca De Pedra São Benedito,760.6,$57.10,"$43,430.26",Saza Coffee,Silvio Leite Café,1250,Brazil,2021,,,"Biscuity, Cherry, Consistent, Malic Acid, Pulpy","Floral, Red Currant, Apple, Bittersweet Chocolate, Black Tea, Caramel, Green pea, Hazelnut, Hint of white peach, Jasmine, Lemongrass, Marshmallow, Milk Chocolate, Molasses, Mouth Drying, Peach, Raisin, Sweet","Citric Acid, Lime, Medium Acidity",Natural,"Yellow Catuaí, Red Catuaí",,32.69,Brazil
+49,18,87.83,Fazenda Campo Alegre,793.67,$8.80,"$6,984.30","
+
+Kyokuto Fadie Corporation
+
+",Amarildo Corsi Da Silva,1388,Brazil,2021,,,Black Tea,"Almond, Bakers Chocolate, Berry, Black Tea, Body/Fullness, Brown Spice, Burnt Sugar, Caramel, Floral, Grape, Hint of lychee, Mellow, Milk Chocolate, Molasses, Mulberry, Muscat, Orange, Raspberry, Red Apple","Bright, Citric Acid, Lively, Malic Acid, Medium",Pulped Natural,Catuaí 144,,159.6,Brazil
+50,19,87.83,Sitio Rochedo,826.73,$8.70,"$7,192.55","
+
+Wataru & Co., Ltd.
+
+",Osman Chirgo Martins,1250,Brazil,2021,,,"Balanced, Bright, Consistance, Mandarin Orange, Tangy","Honey, Black Tea, Cane Sugar, Caramelized, Dried Dates, Floral, Grape, Green Tea, Mandarin Orange, Molasses, Muscat, Orange, Orange Blossom, Plum, Raisin, Raspberry, Rhubarb, Strawberry, Vanilla, White Grape","Crisp, Malic Acid, Sparkling, Sweet",Natural,Red Catuaí,,35.0,Brazil
+51,20,87.83,Fazenda Pedro Rodrigues,760.6,$8.60,"$6,541.16","
+
+Honu Kato Coffee Inc.
+
+",Valgleber Sacramentos Santos Mafra,1550,Brazil,2021,,,"Bittersweet Chocolate, Tropical Fruit","Brown Sugar, Balanced, Black Currant, Black Tea, Brown Spice, Caramel, Cherry, Citrus, Coconut, Grape, Honey, Milk Chocolate, Roasted Almond, Sweet, Tamarind","Malic Acid, Bright, Citric Acid, Crisp, Lively, Tartaric acid",Natural,Red Catucaí,,16.6,Brazil
+52,21,87.8,Sítio Mutuca,1289.71,$8.50,"$10,962.54","
+
+Linking Coffee Co., Ltd.
+
+",Nathan Lopes Sanglard,1250,Brazil,2021,,,"Balanced, Soft","Apricot, Peach, Berry, Brown Sugar, Cane sugar, Caramel, Cranberry, Dried Fruit, Hazelnut, Hint of floral, Honey, Lime,  Orange, Red Currant, Tropical Fruit","Bright, Citric Acid, Structured",Pulped Natural,Red Catucaí,,150.0,Brazil
+53,22,87.67,Fazenda Pedra Preta,1554.26,$8.60,"$13,366.64","
+
+Wataru & Co., Ltd.
+
+",Claudia Maria Carneiro Bustamante,1280,Brazil,2021,,,"Bright acidity, Lime","Green Apple, Orange, Raisin, Sweet, Almond, Bakers Chocolate, Balanced, Caramel, Cocoa, Green Tea, Red Currant, Stewed apple, Strawberry, Watermelon","Citric Acid, Citrus, Lime, Mild",Natural,Catucaí 2 SL,,30.0,Brazil
+54,23,87.47,Fazenda Rainha,793.67,$18.60,"$14,762.26","
+
+KALDI COFFEE FARM
+
+",Fazenda Sertãozinho Ltda.,1570,Brazil,2021,,,"Biscuity,","Brown Sugar, Milk Chocolate, Apple, Black Cherry, Black Tea, Butter, Caramel, Dried Fruit, Hint of pear, Honey, Jasmine, Orange, Panela, Pear, Red Apple, Vanilla","Bright, Citric Acid, Malic Acid, Medium, Tartaric acid",Natural,Gesha,,1000.0,Brazil
+55,24,87.4,Sítio Da Serra,826.73,$8.50,"$7,027.21",GLITCH COFFEE & ROASTERS,Paulo Henrique Miranda,1300,Brazil,2021,,,"Clover honey, Orange, Sweet","Apple, Bakers, Black Currant, Chamomile, Cherry, Grape, Lime, Mandarin Orange, Marshmallow, Milk Chocolate, Panela, Pineapple, Plum, Pomegranate, Prune, Raisin, Red Grape, Strawberry, Sweet, Vanillin","Apple, Malic Acid",Pulped Natural,Catucaí Açu - Iapar 59,,7.0,Brazil
+56,25,87.33,Sitio São João,661.39,$8.50,"$5,621.82",Wataru for Voila Coffee,João Batista Dos Santos,1100,Brazil,2021,,,Crisp,"Orange, Blackberry, Red Currant, Black Cherry, Bourgemot, Cane sugar, Cocoa, Dark Chocolate, Grape, Hint of black tea, Jammy, Nutmeg,","Malic Acid, Bright, Citric Acid, Sparkling",Pulped Natural,Catucaí,,18.0,Brazil
+57,26,87.33,Sítio Rancho Dantas,793.67,$9.20,"$7,301.76","
+
+Linking Coffee Co., Ltd.
+
+",Florentino Meneguetti,1050,Brazil,2021,,,"Nutty, Tangy","Almond, Apricot, Black Tea, Brown Spice, Brown Sugar, Cane sugar, Caramel, Dark Chocolate, Dried Dates, Floral, Grapefruit, Honey, Lemongrass, Malt, Milk Chocolate, Orange, Peach, Plum, Raspberry, Red Currant","Crisp, Lively, Medium acidity",Fully Washed,Catucaí 785,,9.6,Brazil
+58,27,87.3,Fazenda Irmãs Pereira,793.67,$9.20,"$7,301.76","
+
+Linking Coffee Co., Ltd.
+
+",Maria Rogéria Costa Pereira E Outros,1100,Brazil,2021,,,"Black Cherry, Complete, Floral, Milk Chocolate","Black Cherry, Brown Sugar, Caramel, Bakers Chocolate, Berry, Chocolate, Cranberry, Dark Chocolate, Dried prune, Lacks sweetness, Lime, Malt, Nutmeg, Pineapple, Roasted Rose Hips, Sweet, Yellow fruit basket","Malic Acid, Red Apple, Tartaric acid",Pulped Natural,Gesha,,250.0,Brazil
+59,28,87.17,Sitio Santa Barbara,1058.22,$8.20,"$8,677.40","
+
+Wataru & Co., Ltd.
+
+",Lindolfo Martins De Assunção,1378,Brazil,2021,,,"Banana, Bittersweet Chocolate, Consistency, Good balance, Nutty","Black Tea, Jasmine, Orange, Caramel, Cherry, Dark Chocolate, Florall, Hint of jasmin, Lemongrass, Raspberry, Vanilla, Watery","Malic Acid, Citric Acid, Lively",Pulped Natural,Red Catuaí,,5.0,Brazil
+60,29,87.1,Fazenda Ponte Alta,727.53,$8.10,"$5,892.99","
+
+Wataru & Co., Ltd.
+
+",Marina Brito Oliveira,1280,Brazil,2021,,,"Dark Chocolate, Long sweet aftertatse, Soft","Black Tea, Apple, Apricot, Bakers Chocolate, Beautifully Balanced, Brown Sugar, Chocolate, Lacks complexity, Milk Chocolate, Mirabelle plum, Muscat, Orange, Plum, Rose, Sweet","Mild, Bright, Malic Acid, Tartaric acid",Natural,Yellow Catuaí,,24.0,Brazil
+61,1a,91.41,Fazenda Tijuco,462.97,$43.00,"$19,907.71",Caffè Pascucci Torrefazione S.p.A.,Antonio Rigno de Oliveira Filho,,Brazil,2022,,,,,,Natural,Catuaí 144,,,Brazil
+62,1b,91.41,Fazenda Tijuco,462.97,$42.90,"$19,861.41","KALDI COFFEE FARM (CAMEL COFFEE CO.,LTD.)",Antonio Rigno de Oliveira Filho,,Brazil,2022,,,,,,Natural,Catuaí 144,,,Brazil
+63,2a,90.59,Sitio Bonilha,363.76,$31.00,"$11,276.56",Kyokuto Fadie Corporation,Maridalton Silva Santana,,Brazil,2022,,,,,,Pulped Natural,Catuaí 144,,,Brazil
+64,2b,90.59,Sitio Bonilha,363.76,$30.40,"$11,058.30",TAKAMURA COFFEE ROASTERS by MARUKAI,Maridalton Silva Santana,,Brazil,2022,,,,,,Pulped Natural,Catuaí 144,,,Brazil
+65,3a,90.53,FAZENDA RECANTO,396.83,$15.70,"$6,230.23",NOZY COFFEE,AFONSO MARIA VINHAL,,Brazil,2022,,,,,,Natural,Catucaí 2SL,,,Brazil
+66,3b,90.53,FAZENDA RECANTO,396.83,$15.80,"$6,269.91",Wataru for GOLPIE COFFEE,AFONSO MARIA VINHAL,,Brazil,2022,,,,,,Natural,Catucaí 2SL,,,Brazil
+67,4,90.47,Fazenda Recreio,562.18,$25.10,"$14,110.72","KALDI COFFEE FARM (CAMEL COFFEE CO.,LTD.)",HOMERO TEIXEIRA DE MACEDO JUNIOR,,Brazil,2022,,,,,,Natural,Geisha,,,Brazil
+68,5,90.41,CASA BRÁS,727.52,$40.00,"$29,100.80",taf coffee,Pedro Brás,,Brazil,2022,,,,,,Natural,Geisha,,,Brazil
+69,6,89.31,Fazenda Gerais,760.59,$8.20,"$6,236.84",TASHIRO COFFEE,João Roberto Santana,,Brazil,2022,,,,,,Natural,Catuaí 144,,,Brazil
+70,7,89.16,FAZENDA DIVINO ESPÍRITO SANTO,793.66,$12.00,"$9,523.92",terarosa,MICHAEL FREITAS DE ALCÂNTARA,,Brazil,2022,,,,,,Pulped Natural,Catucaí 2SL,,,Brazil
+71,8,88.75,FAZENDA CLAUDIO,793.66,$8.75,"$6,944.53",GLITCH COFFEE & ROASTERS And WAVY COFFEE ROASTERS by MARUKAI,CELIA REGINA ALVES NUNES,,Brazil,2022,,,,,,Natural,Yellow Catuaí 62,,,Brazil
+72,9,88.38,Sítio São Sebastião,793.66,$7.40,"$5,873.08",NOZY COFFEE,Merce Jordan Araújo Silva,,Brazil,2022,,,,,,Natural,Catuaí 144,,,Brazil
+73,10,88.06,Sitio Entre Vales,793.66,$7.20,"$5,714.35",Honu Kato Coffee,Diana de Souza Soares Moreira,,Brazil,2022,,,,,,Natural,Catucaí 2SL,,,Brazil
+74,11,87.84,SÍTIO DA CHAPADA,793.66,$7.40,"$5,873.08",Honu Kato Coffee,MARCUS VINICIUS SOUZA DE CARVALHO e outro(s),,Brazil,2022,,,,,,Natural,Red Catucaí,,,Brazil
+75,12,87.84,SÍTIO SÃO PEDRO,793.66,$7.20,"$5,714.35","GSC International Co., Ltd",Leticia Brás,,Brazil,2022,,,,,,Natural,SL28 & GEISHA,,,Brazil
+76,13,87.81,DRALZIO FERREIRA DE SANTANA,892.87,$7.10,"$6,339.38",TASHIRO COFFEE,DRAUZIO FERREIRA DE SANTANA,,Brazil,2022,,,,,,Pulped Natural,Yellow Catuaí,,,Brazil
+77,14,87.75,Fazenda Santa Inês,727.52,$8.00,"$5,820.16",Volcanica Coffee,Antonio Jose Junqueira Villela,,Brazil,2022,,,,,,Pulped Natural,Yellow Bourbon,,,Brazil
+78,15,87.72,Córrego Seco,1554.26,$6.90,"$10,724.39","Wataru & Co., Ltd.",Edemar Lúcio Matos Martins,,Brazil,2022,,,,,,Pulped Natural,Catuaí 144,,,Brazil
+79,16,87.63,Fazenda Capão,925.94,$6.80,"$6,296.39",NAGAHAMA COFFEE Inc.,Rosilene Lima Novais Mesquita,,Brazil,2022,,,,,,Natural,Red Catuaí,,,Brazil
+80,17,87.63,Sítio São Judas Tadeu,793.66,$7.20,"$5,714.35","Wataru & Co., Ltd.",José Marcio da Silva,,Brazil,2022,,,,,,Natural,Yellow Bourbon,,,Brazil
+81,18,87.47,Terracota Specialty Coffee,562.18,$8.10,"$4,553.66",Little City Coffee Roasters,felipe luiz ramos de carvalho,,Brazil,2022,,,,,,Natural,Catiguá MG2,,,Brazil
+82,19,87.47,FAZENDA CHAPADÃO,793.66,$8.85,"$7,023.89",Studio Caffeine,OSMAR PEREIRA NUNES JUNIOR,,Brazil,2022,,,,,,Natural,MGS Paraíso 2,,,Brazil
+83,20,87.19,Fazenda Cerca de Pedras São Benedito,793.66,$7.20,"$5,714.35",Wataru for Voila Coffee,Sivio Leite Café,,Brazil,2022,,,,,,Pulped Natural,Red and Yellow Catuaí,,,Brazil
+84,21,87.16,Fazenda Baixadão,793.66,$6.80,"$5,396.89","Wataru & Co., Ltd.",Rayssa Brás,,Brazil,2022,,,,,,Natural,Geisha,,,Brazil
+85,22,87.13,Paraiso – Andrade Bros,793.66,$6.70,"$5,317.52","Wataru & Co., Ltd.",Espolio de Maria do Carmo de Andrade,,Brazil,2022,,,,,,Natural,Arara,,,Brazil
+86,23,87.09,SÍTIO GUIOMAR,727.52,$7.40,"$5,383.65","MUSEO Co., Ltd. // 포비아워스 로스터리 // liike coffee  // huelgo // MC company // 커피화 로스터스",REGINALDO COSTALONGA,,Brazil,2022,,,,,,Fully Washed,Red Catucaí 785,,,Brazil
+87,24,87.09,Fazenda Ouro Verde,1025.15,$6.60,"$6,765.99",NOZY COFFEE,Cândido Vladimir Ladeia Rosa,,Brazil,2022,,,,,,Pulped Natural,Catuaí 144,,,Brazil
