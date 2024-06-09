@@ -24,5 +24,7 @@ Data source: website of [Alliance of Coffee eXellence](https://allianceforcoffee
 # Models
 # Results
 # Take Away
+# Presenation Slides
+This is the [slides](https://github.com/yianc2001/COE-Auction-Prediction/blob/main/SLDL%20final.pdf) of our presentation.
 
 
