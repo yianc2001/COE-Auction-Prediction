@@ -16,7 +16,7 @@ Contributers: 陳怡安 Yi-An Chen、林品柔 Pin-Jou Lin、簡言芳 Yen-Fang 
 
 # Introduction
 # Data
-Data source: website of [Alliance of Coffee eXellence](https://allianceforcoffeeexcellence.org/competition-auction-results/)
+Data source: website of [Alliance of Coffee Exellence](https://allianceforcoffeeexcellence.org/competition-auction-results/)
 ## Data Collection
 ## Data Preprocessing
 # Descriptive Statistics
