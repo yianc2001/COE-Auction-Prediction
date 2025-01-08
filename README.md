@@ -18,7 +18,26 @@ Contributers: 陳怡安 Yi-An Chen、林品柔 Pin-Jou Lin、簡言芳 Yen-Fang 
 # Data
 Data source: website of [Alliance of Coffee Exellence](https://allianceforcoffeeexcellence.org/competition-auction-results/)
 ## Data Collection
+Data was collected via web scraping, targeting specific pages that provide detailed records of coffee competitions. The extracted data includes:
+
+- Ranking and Scores: Each coffee's competition rank and score.
+- Origins and Estates: Details about the coffee's origin and the estate where it was grown.
+- Variety and Processing Methods: Information about coffee varieties and their processing techniques.
+- Flavor Notes: Descriptions of the coffee's aroma and flavor characteristics.
+- Bidders: Information about the bidders, including bid amounts and winning companies.
+
+  
+
 ## Data Preprocessing
+To ensure the dataset's usability, the preprocessing steps included:
+
+Structuring the extracted data into a tabular format.
+
+Renaming columns for consistency and clarity (e.g., "Other" was renamed to "Coffee Characteristics").
+
+Filling missing data with placeholders (e.g., "NaN") where applicable.
+
+Validating and cleaning data to handle inconsistencies in scraped information.
 # Descriptive Statistics
 # Feature Selection
 # Models
