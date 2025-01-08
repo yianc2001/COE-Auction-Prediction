@@ -31,13 +31,12 @@ Data was collected via web scraping, targeting specific pages that provide detai
 ## Data Preprocessing
 To ensure the dataset's usability, the preprocessing steps included:
 
-Structuring the extracted data into a tabular format.
+1. Structuring the extracted data into a tabular format.
+2. Renaming columns for consistency and clarity (e.g., "Other" was renamed to "Coffee Characteristics").
+3. Filling missing data with placeholders (e.g., "NaN") where applicable.
+4. Validating and cleaning data to handle inconsistencies in scraped information.
 
-Renaming columns for consistency and clarity (e.g., "Other" was renamed to "Coffee Characteristics").
-
-Filling missing data with placeholders (e.g., "NaN") where applicable.
-
-Validating and cleaning data to handle inconsistencies in scraped information.
+   
 # Descriptive Statistics
 # Feature Selection
 # Models
