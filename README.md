@@ -32,9 +32,15 @@ Data was collected via web scraping, targeting specific pages that provide detai
 To ensure the dataset's usability, the preprocessing steps included:
 
 1. Structuring the extracted data into a tabular format.
-2. Renaming columns for consistency and clarity (e.g., "Other" was renamed to "Coffee Characteristics").
-3. Filling missing data with placeholders (e.g., "NaN") where applicable.
-4. Validating and cleaning data to handle inconsistencies in scraped information.
+2. Dealing with inconsistent data format, such as ranking and units of price.
+3. Renaming columns for consistency and clarity (e.g., "Other" was renamed to "Coffee Characteristics").
+4. Filling missing data with placeholders (e.g., "NaN") where applicable.
+5. **Defining flavor metrics:** categorizing different flavor notes into specific characteristics.
+   - Columns such as Coffee_characteristics, Flavor, and Acidity were cleaned by converting text to lowercase and removing unwanted characters like numbers and special symbols.
+   - Key flavor and aroma descriptors (e.g., "clean," "balanced," "creamy") were identified and used to create binary features indicating the presence of these descriptors.
+   - Flavor profiles were categorized into distinct groups such as "Roasted Flavor," "Spices Flavor," "Nutty/Cocoa Flavor," "Sweet Flavor," "Floral Flavor," "Fruity Flavor," and "Green Vegetative Flavor." This was achieved by matching text patterns in the Coffee_characteristics and Flavor columns.
+   - Acidity was divided into specific types (e.g., "Malic," "Citric," "Tartaric") using a similar pattern-matching approach.
+   - Binary and count-based features were added for each identified flavor and acidity characteristic, enriching the dataset for detailed analysis.
 
    
 # Descriptive Statistics
